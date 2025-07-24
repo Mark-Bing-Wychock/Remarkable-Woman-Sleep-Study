@@ -1,0 +1,1345 @@
+Date,Week_Numeric,Week_String,Sleep_Metric_Type,Value_in_Seconds,Rested
+8/11/2024,1,Sunday,Sleep Duration,10800,No
+8/12/2024,2,Monday,Sleep Duration,24600,Yes
+8/13/2024,3,Tuesday,Sleep Duration,26400,Yes
+8/14/2024,4,Wednesday,Sleep Duration,20100,No
+8/15/2024,5,Thursday,Sleep Duration,32100,No
+8/16/2024,6,Friday,Sleep Duration,26100,Yes
+8/17/2024,7,Saturday,Sleep Duration,32220,No
+8/18/2024,1,Sunday,Sleep Duration,26160,No
+8/19/2024,2,Monday,Sleep Duration,29040,No
+8/20/2024,3,Tuesday,Sleep Duration,22560,No
+8/21/2024,4,Wednesday,Sleep Duration,30600,Yes
+8/22/2024,5,Thursday,Sleep Duration,29400,No
+8/23/2024,6,Friday,Sleep Duration,25200,No
+8/24/2024,7,Saturday,Sleep Duration,27660,No
+8/25/2024,1,Sunday,Sleep Duration,29400,Yes
+8/26/2024,2,Monday,Sleep Duration,28800,Yes
+8/27/2024,3,Tuesday,Sleep Duration,25560,Yes
+8/28/2024,4,Wednesday,Sleep Duration,27300,No
+8/29/2024,5,Thursday,Sleep Duration,28860,Yes
+8/30/2024,6,Friday,Sleep Duration,32760,No
+8/31/2024,7,Saturday,Sleep Duration,32100,No
+9/1/2024,1,Sunday,Sleep Duration,28800,No
+9/2/2024,2,Monday,Sleep Duration,30960,Yes
+9/3/2024,3,Tuesday,Sleep Duration,22560,No
+9/4/2024,4,Wednesday,Sleep Duration,28020,No
+9/6/2024,6,Friday,Sleep Duration,28380,No
+9/7/2024,7,Saturday,Sleep Duration,23880,No
+9/8/2024,1,Sunday,Sleep Duration,33960,No
+9/9/2024,2,Monday,Sleep Duration,29100,No
+9/10/2024,3,Tuesday,Sleep Duration,28440,Yes
+9/11/2024,4,Wednesday,Sleep Duration,27300,Yes
+9/12/2024,5,Thursday,Sleep Duration,26220,Yes
+9/13/2024,6,Friday,Sleep Duration,30240,No
+9/14/2024,7,Saturday,Sleep Duration,24900,Yes
+9/15/2024,1,Sunday,Sleep Duration,29460,Yes
+9/16/2024,2,Monday,Sleep Duration,29040,Yes
+9/17/2024,3,Tuesday,Sleep Duration,25320,No
+9/18/2024,4,Wednesday,Sleep Duration,32700,No
+9/19/2024,5,Thursday,Sleep Duration,28200,No
+9/20/2024,6,Friday,Sleep Duration,30180,Yes
+9/21/2024,7,Saturday,Sleep Duration,27180,Yes
+9/22/2024,1,Sunday,Sleep Duration,28320,Yes
+9/23/2024,2,Monday,Sleep Duration,28200,Yes
+9/24/2024,3,Tuesday,Sleep Duration,27360,Yes
+9/25/2024,4,Wednesday,Sleep Duration,25680,Yes
+9/26/2024,5,Thursday,Sleep Duration,32760,No
+9/27/2024,6,Friday,Sleep Duration,28320,No
+9/28/2024,7,Saturday,Sleep Duration,27420,No
+9/29/2024,1,Sunday,Sleep Duration,27060,Yes
+9/30/2024,2,Monday,Sleep Duration,18900,Yes
+10/1/2024,3,Tuesday,Sleep Duration,29220,Yes
+10/2/2024,4,Wednesday,Sleep Duration,29520,No
+10/3/2024,5,Thursday,Sleep Duration,30960,Yes
+10/4/2024,6,Friday,Sleep Duration,29940,Yes
+10/5/2024,7,Saturday,Sleep Duration,28260,Yes
+10/6/2024,1,Sunday,Sleep Duration,29040,Yes
+10/7/2024,2,Monday,Sleep Duration,32700,No
+10/8/2024,3,Tuesday,Sleep Duration,28560,Yes
+10/9/2024,4,Wednesday,Sleep Duration,28800,Yes
+10/10/2024,5,Thursday,Sleep Duration,24840,Yes
+10/11/2024,6,Friday,Sleep Duration,26460,No
+10/12/2024,7,Saturday,Sleep Duration,23460,No
+10/13/2024,1,Sunday,Sleep Duration,30540,Yes
+10/14/2024,2,Monday,Sleep Duration,22320,No
+10/15/2024,3,Tuesday,Sleep Duration,30240,Yes
+10/16/2024,4,Wednesday,Sleep Duration,29040,Yes
+10/17/2024,5,Thursday,Sleep Duration,31500,Yes
+10/18/2024,6,Friday,Sleep Duration,28200,Yes
+10/19/2024,7,Saturday,Sleep Duration,26160,Yes
+10/20/2024,1,Sunday,Sleep Duration,25260,Yes
+10/21/2024,2,Monday,Sleep Duration,26700,No
+10/22/2024,3,Tuesday,Sleep Duration,30360,No
+10/23/2024,4,Wednesday,Sleep Duration,27660,Yes
+10/24/2024,5,Thursday,Sleep Duration,36660,No
+10/25/2024,6,Friday,Sleep Duration,25620,Yes
+10/26/2024,7,Saturday,Sleep Duration,29880,No
+10/27/2024,1,Sunday,Sleep Duration,27840,No
+10/28/2024,2,Monday,Sleep Duration,28560,Yes
+10/29/2024,3,Tuesday,Sleep Duration,26880,Yes
+10/30/2024,4,Wednesday,Sleep Duration,29820,Yes
+10/31/2024,5,Thursday,Sleep Duration,24120,Yes
+11/1/2024,6,Friday,Sleep Duration,26400,No
+11/2/2024,7,Saturday,Sleep Duration,19860,No
+11/3/2024,1,Sunday,Sleep Duration,28140,No
+11/4/2024,2,Monday,Sleep Duration,23820,Yes
+11/5/2024,3,Tuesday,Sleep Duration,27780,Yes
+11/6/2024,4,Wednesday,Sleep Duration,31140,Yes
+11/7/2024,5,Thursday,Sleep Duration,24060,Yes
+11/8/2024,6,Friday,Sleep Duration,24780,Yes
+11/9/2024,7,Saturday,Sleep Duration,32340,Yes
+11/10/2024,1,Sunday,Sleep Duration,25320,Yes
+11/11/2024,2,Monday,Sleep Duration,18660,Yes
+11/12/2024,3,Tuesday,Sleep Duration,40560,No
+11/13/2024,4,Wednesday,Sleep Duration,36600,No
+11/14/2024,5,Thursday,Sleep Duration,25680,No
+11/15/2024,6,Friday,Sleep Duration,19200,Yes
+11/16/2024,7,Saturday,Sleep Duration,34440,Yes
+11/17/2024,1,Sunday,Sleep Duration,30960,No
+11/18/2024,2,Monday,Sleep Duration,25380,Yes
+11/19/2024,3,Tuesday,Sleep Duration,29460,No
+11/20/2024,4,Wednesday,Sleep Duration,29040,No
+11/21/2024,5,Thursday,Sleep Duration,28500,Yes
+11/22/2024,6,Friday,Sleep Duration,26880,Yes
+11/23/2024,7,Saturday,Sleep Duration,28500,Yes
+11/24/2024,1,Sunday,Sleep Duration,30780,Yes
+11/25/2024,2,Monday,Sleep Duration,33720,No
+11/26/2024,3,Tuesday,Sleep Duration,39540,No
+11/27/2024,4,Wednesday,Sleep Duration,25560,Yes
+11/28/2024,5,Thursday,Sleep Duration,30120,Yes
+11/29/2024,6,Friday,Sleep Duration,29460,No
+11/30/2024,7,Saturday,Sleep Duration,33300,No
+12/1/2024,1,Sunday,Sleep Duration,28200,Yes
+12/2/2024,2,Monday,Sleep Duration,30900,No
+12/3/2024,3,Tuesday,Sleep Duration,37020,No
+12/4/2024,4,Wednesday,Sleep Duration,30600,No
+12/5/2024,5,Thursday,Sleep Duration,36600,No
+12/6/2024,6,Friday,Sleep Duration,19800,Yes
+12/7/2024,7,Saturday,Sleep Duration,28800,Yes
+12/8/2024,1,Sunday,Sleep Duration,28920,Yes
+12/9/2024,2,Monday,Sleep Duration,24840,No
+12/10/2024,3,Tuesday,Sleep Duration,27900,Yes
+12/11/2024,4,Wednesday,Sleep Duration,29820,Yes
+12/12/2024,5,Thursday,Sleep Duration,30240,Yes
+12/13/2024,6,Friday,Sleep Duration,30540,Yes
+12/14/2024,7,Saturday,Sleep Duration,30480,Yes
+12/15/2024,1,Sunday,Sleep Duration,35100,No
+12/16/2024,2,Monday,Sleep Duration,29100,No
+12/17/2024,3,Tuesday,Sleep Duration,31140,No
+12/18/2024,4,Wednesday,Sleep Duration,29820,Yes
+12/19/2024,5,Thursday,Sleep Duration,28980,Yes
+12/20/2024,6,Friday,Sleep Duration,29460,No
+12/21/2024,7,Saturday,Sleep Duration,30120,No
+12/22/2024,1,Sunday,Sleep Duration,25680,No
+12/23/2024,2,Monday,Sleep Duration,29940,No
+12/24/2024,3,Tuesday,Sleep Duration,32640,No
+12/25/2024,4,Wednesday,Sleep Duration,33360,No
+12/26/2024,5,Thursday,Sleep Duration,21000,No
+12/27/2024,6,Friday,Sleep Duration,31860,No
+12/28/2024,7,Saturday,Sleep Duration,28560,No
+12/29/2024,1,Sunday,Sleep Duration,35760,No
+12/30/2024,2,Monday,Sleep Duration,21420,No
+12/31/2024,3,Tuesday,Sleep Duration,20640,No
+1/1/2025,4,Wednesday,Sleep Duration,36060,No
+1/2/2025,5,Thursday,Sleep Duration,34920,Yes
+1/3/2025,6,Friday,Sleep Duration,31020,Yes
+1/4/2025,7,Saturday,Sleep Duration,24120,No
+1/5/2025,1,Sunday,Sleep Duration,39720,No
+1/6/2025,2,Monday,Sleep Duration,26460,Yes
+1/7/2025,3,Tuesday,Sleep Duration,24300,Yes
+1/8/2025,4,Wednesday,Sleep Duration,20580,No
+1/9/2025,5,Thursday,Sleep Duration,30960,No
+1/10/2025,6,Friday,Sleep Duration,31740,No
+1/11/2025,7,Saturday,Sleep Duration,31560,Yes
+1/12/2025,1,Sunday,Sleep Duration,29880,No
+1/13/2025,2,Monday,Sleep Duration,16020,No
+1/14/2025,3,Tuesday,Sleep Duration,29340,Yes
+1/15/2025,4,Wednesday,Sleep Duration,34260,No
+1/16/2025,5,Thursday,Sleep Duration,31200,Yes
+1/17/2025,6,Friday,Sleep Duration,30720,No
+1/18/2025,7,Saturday,Sleep Duration,27480,Yes
+1/19/2025,1,Sunday,Sleep Duration,37440,Yes
+1/20/2025,2,Monday,Sleep Duration,39060,No
+1/21/2025,3,Tuesday,Sleep Duration,37020,Yes
+1/22/2025,4,Wednesday,Sleep Duration,22980,No
+1/23/2025,5,Thursday,Sleep Duration,30600,Yes
+1/24/2025,6,Friday,Sleep Duration,30180,Yes
+1/25/2025,7,Saturday,Sleep Duration,23760,Yes
+1/26/2025,1,Sunday,Sleep Duration,15060,No
+1/27/2025,2,Monday,Sleep Duration,31920,No
+1/28/2025,3,Tuesday,Sleep Duration,26760,Yes
+1/29/2025,4,Wednesday,Sleep Duration,24660,No
+1/30/2025,5,Thursday,Sleep Duration,27000,Yes
+1/31/2025,6,Friday,Sleep Duration,31260,Yes
+2/1/2025,7,Saturday,Sleep Duration,38280,Yes
+2/2/2025,1,Sunday,Sleep Duration,41640,Yes
+2/3/2025,2,Monday,Sleep Duration,26340,No
+2/4/2025,3,Tuesday,Sleep Duration,27540,No
+2/5/2025,4,Wednesday,Sleep Duration,33540,No
+2/6/2025,5,Thursday,Sleep Duration,35340,No
+2/7/2025,6,Friday,Sleep Duration,33060,Yes
+2/8/2025,7,Saturday,Sleep Duration,26340,No
+2/9/2025,1,Sunday,Sleep Duration,30000,Yes
+2/10/2025,2,Monday,Sleep Duration,24780,Yes
+2/11/2025,3,Tuesday,Sleep Duration,29280,Yes
+2/12/2025,4,Wednesday,Sleep Duration,27960,No
+2/13/2025,5,Thursday,Sleep Duration,29220,Yes
+2/14/2025,6,Friday,Sleep Duration,31140,Yes
+2/15/2025,7,Saturday,Sleep Duration,32160,Yes
+2/16/2025,1,Sunday,Sleep Duration,29460,No
+2/17/2025,2,Monday,Sleep Duration,12420,No
+2/18/2025,3,Tuesday,Sleep Duration,29700,Yes
+2/19/2025,4,Wednesday,Sleep Duration,31620,No
+2/20/2025,5,Thursday,Sleep Duration,28380,Yes
+2/21/2025,6,Friday,Sleep Duration,35880,No
+2/22/2025,7,Saturday,Sleep Duration,35460,Yes
+2/23/2025,1,Sunday,Sleep Duration,26100,Yes
+2/24/2025,2,Monday,Sleep Duration,30720,Yes
+2/25/2025,3,Tuesday,Sleep Duration,34980,No
+2/26/2025,4,Wednesday,Sleep Duration,28500,Yes
+2/27/2025,5,Thursday,Sleep Duration,23040,Yes
+2/28/2025,6,Friday,Sleep Duration,32460,Yes
+3/1/2025,7,Saturday,Sleep Duration,31380,Yes
+3/2/2025,1,Sunday,Sleep Duration,27660,Yes
+3/3/2025,2,Monday,Sleep Duration,31680,No
+3/4/2025,3,Tuesday,Sleep Duration,30900,No
+3/5/2025,4,Wednesday,Sleep Duration,35520,No
+3/6/2025,5,Thursday,Sleep Duration,30900,Yes
+3/7/2025,6,Friday,Sleep Duration,13440,Yes
+3/8/2025,7,Saturday,Sleep Duration,24480,Yes
+3/9/2025,1,Sunday,Sleep Duration,24960,Yes
+3/10/2025,2,Monday,Sleep Duration,31140,Yes
+3/11/2025,3,Tuesday,Sleep Duration,26640,Yes
+3/12/2025,4,Wednesday,Sleep Duration,34560,Yes
+3/13/2025,5,Thursday,Sleep Duration,30420,Yes
+3/14/2025,6,Friday,Sleep Duration,35700,No
+3/15/2025,7,Saturday,Sleep Duration,22380,Yes
+3/16/2025,1,Sunday,Sleep Duration,34920,No
+3/17/2025,2,Monday,Sleep Duration,18360,No
+3/18/2025,3,Tuesday,Sleep Duration,31680,Yes
+3/19/2025,4,Wednesday,Sleep Duration,31320,Yes
+3/20/2025,5,Thursday,Sleep Duration,32220,No
+3/21/2025,6,Friday,Sleep Duration,28920,Yes
+3/22/2025,7,Saturday,Sleep Duration,20760,Yes
+3/23/2025,1,Sunday,Sleep Duration,31620,No
+3/24/2025,2,Monday,Sleep Duration,28140,Yes
+3/25/2025,3,Tuesday,Sleep Duration,31500,Yes
+3/26/2025,4,Wednesday,Sleep Duration,32460,Yes
+3/27/2025,5,Thursday,Sleep Duration,31140,No
+3/28/2025,6,Friday,Sleep Duration,28140,Yes
+3/29/2025,7,Saturday,Sleep Duration,21900,Yes
+3/30/2025,1,Sunday,Sleep Duration,32100,Yes
+3/31/2025,2,Monday,Sleep Duration,36900,Yes
+4/1/2025,3,Tuesday,Sleep Duration,26820,No
+4/2/2025,4,Wednesday,Sleep Duration,20160,No
+4/3/2025,5,Thursday,Sleep Duration,24480,Yes
+4/4/2025,6,Friday,Sleep Duration,22260,Yes
+4/5/2025,7,Saturday,Sleep Duration,33480,Yes
+4/6/2025,1,Sunday,Sleep Duration,20700,No
+4/7/2025,2,Monday,Sleep Duration,29340,Yes
+4/8/2025,3,Tuesday,Sleep Duration,26640,No
+4/9/2025,4,Wednesday,Sleep Duration,20880,Yes
+4/10/2025,5,Thursday,Sleep Duration,29400,Yes
+4/11/2025,6,Friday,Sleep Duration,30660,Yes
+4/12/2025,7,Saturday,Sleep Duration,31620,No
+4/13/2025,1,Sunday,Sleep Duration,11460,No
+4/14/2025,2,Monday,Sleep Duration,14580,Yes
+4/15/2025,3,Tuesday,Sleep Duration,21960,Yes
+4/16/2025,4,Wednesday,Sleep Duration,35520,Yes
+4/17/2025,5,Thursday,Sleep Duration,31620,Yes
+4/18/2025,6,Friday,Sleep Duration,30540,Yes
+4/19/2025,7,Saturday,Sleep Duration,32520,Yes
+4/20/2025,1,Sunday,Sleep Duration,25200,No
+4/21/2025,2,Monday,Sleep Duration,27360,No
+4/22/2025,3,Tuesday,Sleep Duration,23460,No
+4/23/2025,4,Wednesday,Sleep Duration,26700,No
+4/24/2025,5,Thursday,Sleep Duration,26460,Yes
+4/25/2025,6,Friday,Sleep Duration,22140,No
+4/26/2025,7,Saturday,Sleep Duration,24840,Yes
+4/27/2025,1,Sunday,Sleep Duration,27060,Yes
+4/28/2025,2,Monday,Sleep Duration,25860,Yes
+4/29/2025,3,Tuesday,Sleep Duration,27180,Yes
+4/30/2025,4,Wednesday,Sleep Duration,27960,No
+5/1/2025,5,Thursday,Sleep Duration,16560,No
+5/2/2025,6,Friday,Sleep Duration,23040,Yes
+5/3/2025,7,Saturday,Sleep Duration,29520,Yes
+5/4/2025,1,Sunday,Sleep Duration,28800,Yes
+5/5/2025,2,Monday,Sleep Duration,25560,No
+5/6/2025,3,Tuesday,Sleep Duration,36120,No
+5/7/2025,4,Wednesday,Sleep Duration,38040,Yes
+5/8/2025,5,Thursday,Sleep Duration,29220,Yes
+5/9/2025,6,Friday,Sleep Duration,28440,Yes
+5/10/2025,7,Saturday,Sleep Duration,26340,Yes
+5/11/2025,1,Sunday,Sleep Duration,28200,No
+5/12/2025,2,Monday,Sleep Duration,18720,No
+5/13/2025,3,Tuesday,Sleep Duration,28620,Yes
+5/14/2025,4,Wednesday,Sleep Duration,30300,Yes
+5/15/2025,5,Thursday,Sleep Duration,25560,Yes
+5/16/2025,6,Friday,Sleep Duration,28440,No
+5/17/2025,7,Saturday,Sleep Duration,25740,No
+5/18/2025,1,Sunday,Sleep Duration,27660,Yes
+5/19/2025,2,Monday,Sleep Duration,29280,No
+5/20/2025,3,Tuesday,Sleep Duration,30120,Yes
+5/21/2025,4,Wednesday,Sleep Duration,27540,Yes
+5/22/2025,5,Thursday,Sleep Duration,28800,Yes
+5/23/2025,6,Friday,Sleep Duration,31380,No
+5/24/2025,7,Saturday,Sleep Duration,25440,No
+5/25/2025,1,Sunday,Sleep Duration,19380,No
+5/26/2025,2,Monday,Sleep Duration,24360,Yes
+5/27/2025,3,Tuesday,Sleep Duration,27900,No
+5/28/2025,4,Wednesday,Sleep Duration,31200,No
+5/29/2025,5,Thursday,Sleep Duration,29160,No
+5/30/2025,6,Friday,Sleep Duration,28680,No
+5/31/2025,7,Saturday,Sleep Duration,32400,No
+6/1/2025,1,Sunday,Sleep Duration,29940,Yes
+6/2/2025,2,Monday,Sleep Duration,29520,No
+6/3/2025,3,Tuesday,Sleep Duration,29700,Yes
+6/4/2025,4,Wednesday,Sleep Duration,25800,Yes
+6/5/2025,5,Thursday,Sleep Duration,24360,Yes
+6/6/2025,6,Friday,Sleep Duration,26520,No
+6/7/2025,7,Saturday,Sleep Duration,27660,Yes
+6/8/2025,1,Sunday,Sleep Duration,30420,Yes
+6/9/2025,2,Monday,Sleep Duration,29640,No
+6/10/2025,3,Tuesday,Sleep Duration,27000,No
+6/11/2025,4,Wednesday,Sleep Duration,31140,No
+6/12/2025,5,Thursday,Sleep Duration,35580,No
+6/13/2025,6,Friday,Sleep Duration,30060,No
+6/14/2025,7,Saturday,Sleep Duration,32580,No
+6/15/2025,1,Sunday,Sleep Duration,29580,No
+6/16/2025,2,Monday,Sleep Duration,24660,Yes
+6/17/2025,3,Tuesday,Sleep Duration,34740,Yes
+6/18/2025,4,Wednesday,Sleep Duration,23820,No
+6/19/2025,5,Thursday,Sleep Duration,24420,No
+6/20/2025,6,Friday,Sleep Duration,26940,Yes
+6/21/2025,7,Saturday,Sleep Duration,22680,Yes
+6/22/2025,1,Sunday,Sleep Duration,25200,Yes
+6/23/2025,2,Monday,Sleep Duration,16260,No
+6/24/2025,3,Tuesday,Sleep Duration,31920,No
+6/25/2025,4,Wednesday,Sleep Duration,26820,Yes
+6/26/2025,5,Thursday,Sleep Duration,28680,Yes
+6/27/2025,6,Friday,Sleep Duration,28740,Yes
+6/28/2025,7,Saturday,Sleep Duration,28380,Yes
+6/29/2025,1,Sunday,Sleep Duration,30540,Yes
+6/30/2025,2,Monday,Sleep Duration,30960,Yes
+7/1/2025,3,Tuesday,Sleep Duration,27540,Yes
+7/2/2025,4,Wednesday,Sleep Duration,31200,Yes
+7/3/2025,5,Thursday,Sleep Duration,29820,No
+7/4/2025,6,Friday,Sleep Duration,31560,No
+7/5/2025,7,Saturday,Sleep Duration,25320,Yes
+7/6/2025,1,Sunday,Sleep Duration,21000,Yes
+7/7/2025,2,Monday,Sleep Duration,28080,Yes
+7/8/2025,3,Tuesday,Sleep Duration,27240,No
+7/9/2025,4,Wednesday,Sleep Duration,28020,No
+7/10/2025,5,Thursday,Sleep Duration,16800,No
+7/11/2025,6,Friday,Sleep Duration,31020,Yes
+7/12/2025,7,Saturday,Sleep Duration,22560,No
+7/13/2025,1,Sunday,Sleep Duration,26640,Yes
+8/11/2024,1,Sunday,Sleep Duration + Naps,16800,No
+8/12/2024,2,Monday,Sleep Duration + Naps,24600,Yes
+8/13/2024,3,Tuesday,Sleep Duration + Naps,26400,Yes
+8/14/2024,4,Wednesday,Sleep Duration + Naps,30000,No
+8/15/2024,5,Thursday,Sleep Duration + Naps,32100,No
+8/16/2024,6,Friday,Sleep Duration + Naps,28800,Yes
+8/17/2024,7,Saturday,Sleep Duration + Naps,32220,No
+8/18/2024,1,Sunday,Sleep Duration + Naps,26160,No
+8/19/2024,2,Monday,Sleep Duration + Naps,29040,No
+8/20/2024,3,Tuesday,Sleep Duration + Naps,22560,No
+8/21/2024,4,Wednesday,Sleep Duration + Naps,30600,Yes
+8/22/2024,5,Thursday,Sleep Duration + Naps,29400,No
+8/23/2024,6,Friday,Sleep Duration + Naps,25200,No
+8/24/2024,7,Saturday,Sleep Duration + Naps,32460,No
+8/25/2024,1,Sunday,Sleep Duration + Naps,29400,Yes
+8/26/2024,2,Monday,Sleep Duration + Naps,28800,Yes
+8/27/2024,3,Tuesday,Sleep Duration + Naps,25560,Yes
+8/28/2024,4,Wednesday,Sleep Duration + Naps,27300,No
+8/29/2024,5,Thursday,Sleep Duration + Naps,34020,Yes
+8/30/2024,6,Friday,Sleep Duration + Naps,35460,No
+8/31/2024,7,Saturday,Sleep Duration + Naps,32100,No
+9/1/2024,1,Sunday,Sleep Duration + Naps,28800,No
+9/2/2024,2,Monday,Sleep Duration + Naps,38160,Yes
+9/3/2024,3,Tuesday,Sleep Duration + Naps,22560,No
+9/4/2024,4,Wednesday,Sleep Duration + Naps,35220,No
+9/6/2024,6,Friday,Sleep Duration + Naps,28380,No
+9/7/2024,7,Saturday,Sleep Duration + Naps,31080,No
+9/8/2024,1,Sunday,Sleep Duration + Naps,33960,No
+9/9/2024,2,Monday,Sleep Duration + Naps,29100,No
+9/10/2024,3,Tuesday,Sleep Duration + Naps,32040,Yes
+9/11/2024,4,Wednesday,Sleep Duration + Naps,27300,Yes
+9/12/2024,5,Thursday,Sleep Duration + Naps,26220,Yes
+9/13/2024,6,Friday,Sleep Duration + Naps,35640,No
+9/14/2024,7,Saturday,Sleep Duration + Naps,24900,Yes
+9/15/2024,1,Sunday,Sleep Duration + Naps,29460,Yes
+9/16/2024,2,Monday,Sleep Duration + Naps,29040,Yes
+9/17/2024,3,Tuesday,Sleep Duration + Naps,25320,No
+9/18/2024,4,Wednesday,Sleep Duration + Naps,32700,No
+9/19/2024,5,Thursday,Sleep Duration + Naps,28200,No
+9/20/2024,6,Friday,Sleep Duration + Naps,30180,Yes
+9/21/2024,7,Saturday,Sleep Duration + Naps,27180,Yes
+9/22/2024,1,Sunday,Sleep Duration + Naps,33960,Yes
+9/23/2024,2,Monday,Sleep Duration + Naps,32520,Yes
+9/24/2024,3,Tuesday,Sleep Duration + Naps,27360,Yes
+9/25/2024,4,Wednesday,Sleep Duration + Naps,25680,Yes
+9/26/2024,5,Thursday,Sleep Duration + Naps,32760,No
+9/27/2024,6,Friday,Sleep Duration + Naps,28320,No
+9/28/2024,7,Saturday,Sleep Duration + Naps,27420,No
+9/29/2024,1,Sunday,Sleep Duration + Naps,27060,Yes
+9/30/2024,2,Monday,Sleep Duration + Naps,18900,Yes
+10/1/2024,3,Tuesday,Sleep Duration + Naps,29220,Yes
+10/2/2024,4,Wednesday,Sleep Duration + Naps,29520,No
+10/3/2024,5,Thursday,Sleep Duration + Naps,30960,Yes
+10/4/2024,6,Friday,Sleep Duration + Naps,29940,Yes
+10/5/2024,7,Saturday,Sleep Duration + Naps,28260,Yes
+10/6/2024,1,Sunday,Sleep Duration + Naps,29040,Yes
+10/7/2024,2,Monday,Sleep Duration + Naps,32700,No
+10/8/2024,3,Tuesday,Sleep Duration + Naps,34200,Yes
+10/9/2024,4,Wednesday,Sleep Duration + Naps,28800,Yes
+10/10/2024,5,Thursday,Sleep Duration + Naps,24840,Yes
+10/11/2024,6,Friday,Sleep Duration + Naps,26460,No
+10/12/2024,7,Saturday,Sleep Duration + Naps,23460,No
+10/13/2024,1,Sunday,Sleep Duration + Naps,30540,Yes
+10/14/2024,2,Monday,Sleep Duration + Naps,22320,No
+10/15/2024,3,Tuesday,Sleep Duration + Naps,30240,Yes
+10/16/2024,4,Wednesday,Sleep Duration + Naps,29040,Yes
+10/17/2024,5,Thursday,Sleep Duration + Naps,31500,Yes
+10/18/2024,6,Friday,Sleep Duration + Naps,28200,Yes
+10/19/2024,7,Saturday,Sleep Duration + Naps,26160,Yes
+10/20/2024,1,Sunday,Sleep Duration + Naps,26760,Yes
+10/21/2024,2,Monday,Sleep Duration + Naps,26700,No
+10/22/2024,3,Tuesday,Sleep Duration + Naps,30360,No
+10/23/2024,4,Wednesday,Sleep Duration + Naps,27660,Yes
+10/24/2024,5,Thursday,Sleep Duration + Naps,36660,No
+10/25/2024,6,Friday,Sleep Duration + Naps,25620,Yes
+10/26/2024,7,Saturday,Sleep Duration + Naps,29880,No
+10/27/2024,1,Sunday,Sleep Duration + Naps,27840,No
+10/28/2024,2,Monday,Sleep Duration + Naps,29940,Yes
+10/29/2024,3,Tuesday,Sleep Duration + Naps,26880,Yes
+10/30/2024,4,Wednesday,Sleep Duration + Naps,29820,Yes
+10/31/2024,5,Thursday,Sleep Duration + Naps,25320,Yes
+11/1/2024,6,Friday,Sleep Duration + Naps,26400,No
+11/2/2024,7,Saturday,Sleep Duration + Naps,19860,No
+11/3/2024,1,Sunday,Sleep Duration + Naps,28140,No
+11/4/2024,2,Monday,Sleep Duration + Naps,23820,Yes
+11/5/2024,3,Tuesday,Sleep Duration + Naps,27780,Yes
+11/6/2024,4,Wednesday,Sleep Duration + Naps,31140,Yes
+11/7/2024,5,Thursday,Sleep Duration + Naps,24060,Yes
+11/8/2024,6,Friday,Sleep Duration + Naps,24780,Yes
+11/9/2024,7,Saturday,Sleep Duration + Naps,32340,Yes
+11/10/2024,1,Sunday,Sleep Duration + Naps,25320,Yes
+11/11/2024,2,Monday,Sleep Duration + Naps,18660,Yes
+11/12/2024,3,Tuesday,Sleep Duration + Naps,40560,No
+11/13/2024,4,Wednesday,Sleep Duration + Naps,36600,No
+11/14/2024,5,Thursday,Sleep Duration + Naps,25680,No
+11/15/2024,6,Friday,Sleep Duration + Naps,19200,Yes
+11/16/2024,7,Saturday,Sleep Duration + Naps,34440,Yes
+11/17/2024,1,Sunday,Sleep Duration + Naps,30960,No
+11/18/2024,2,Monday,Sleep Duration + Naps,35280,Yes
+11/19/2024,3,Tuesday,Sleep Duration + Naps,29460,No
+11/20/2024,4,Wednesday,Sleep Duration + Naps,29040,No
+11/21/2024,5,Thursday,Sleep Duration + Naps,28500,Yes
+11/22/2024,6,Friday,Sleep Duration + Naps,26880,Yes
+11/23/2024,7,Saturday,Sleep Duration + Naps,28500,Yes
+11/24/2024,1,Sunday,Sleep Duration + Naps,30780,Yes
+11/25/2024,2,Monday,Sleep Duration + Naps,33720,No
+11/26/2024,3,Tuesday,Sleep Duration + Naps,39540,No
+11/27/2024,4,Wednesday,Sleep Duration + Naps,25560,Yes
+11/28/2024,5,Thursday,Sleep Duration + Naps,30120,Yes
+11/29/2024,6,Friday,Sleep Duration + Naps,29460,No
+11/30/2024,7,Saturday,Sleep Duration + Naps,36300,No
+12/1/2024,1,Sunday,Sleep Duration + Naps,28200,Yes
+12/2/2024,2,Monday,Sleep Duration + Naps,30900,No
+12/3/2024,3,Tuesday,Sleep Duration + Naps,37020,No
+12/4/2024,4,Wednesday,Sleep Duration + Naps,30600,No
+12/5/2024,5,Thursday,Sleep Duration + Naps,43800,No
+12/6/2024,6,Friday,Sleep Duration + Naps,19800,Yes
+12/7/2024,7,Saturday,Sleep Duration + Naps,28800,Yes
+12/8/2024,1,Sunday,Sleep Duration + Naps,28920,Yes
+12/9/2024,2,Monday,Sleep Duration + Naps,32040,No
+12/10/2024,3,Tuesday,Sleep Duration + Naps,27900,Yes
+12/11/2024,4,Wednesday,Sleep Duration + Naps,29820,Yes
+12/12/2024,5,Thursday,Sleep Duration + Naps,30240,Yes
+12/13/2024,6,Friday,Sleep Duration + Naps,30540,Yes
+12/14/2024,7,Saturday,Sleep Duration + Naps,30480,Yes
+12/15/2024,1,Sunday,Sleep Duration + Naps,35100,No
+12/16/2024,2,Monday,Sleep Duration + Naps,36300,No
+12/17/2024,3,Tuesday,Sleep Duration + Naps,31140,No
+12/18/2024,4,Wednesday,Sleep Duration + Naps,29820,Yes
+12/19/2024,5,Thursday,Sleep Duration + Naps,28980,Yes
+12/20/2024,6,Friday,Sleep Duration + Naps,29460,No
+12/21/2024,7,Saturday,Sleep Duration + Naps,37320,No
+12/22/2024,1,Sunday,Sleep Duration + Naps,25680,No
+12/23/2024,2,Monday,Sleep Duration + Naps,29940,No
+12/24/2024,3,Tuesday,Sleep Duration + Naps,32640,No
+12/25/2024,4,Wednesday,Sleep Duration + Naps,33360,No
+12/26/2024,5,Thursday,Sleep Duration + Naps,21000,No
+12/27/2024,6,Friday,Sleep Duration + Naps,31860,No
+12/28/2024,7,Saturday,Sleep Duration + Naps,28560,No
+12/29/2024,1,Sunday,Sleep Duration + Naps,35760,No
+12/30/2024,2,Monday,Sleep Duration + Naps,21420,No
+12/31/2024,3,Tuesday,Sleep Duration + Naps,20640,No
+1/1/2025,4,Wednesday,Sleep Duration + Naps,36060,No
+1/2/2025,5,Thursday,Sleep Duration + Naps,34920,Yes
+1/3/2025,6,Friday,Sleep Duration + Naps,31020,Yes
+1/4/2025,7,Saturday,Sleep Duration + Naps,24120,No
+1/5/2025,1,Sunday,Sleep Duration + Naps,39720,No
+1/6/2025,2,Monday,Sleep Duration + Naps,26460,Yes
+1/7/2025,3,Tuesday,Sleep Duration + Naps,24300,Yes
+1/8/2025,4,Wednesday,Sleep Duration + Naps,20580,No
+1/9/2025,5,Thursday,Sleep Duration + Naps,30960,No
+1/10/2025,6,Friday,Sleep Duration + Naps,31740,No
+1/11/2025,7,Saturday,Sleep Duration + Naps,31560,Yes
+1/12/2025,1,Sunday,Sleep Duration + Naps,29880,No
+1/13/2025,2,Monday,Sleep Duration + Naps,16020,No
+1/14/2025,3,Tuesday,Sleep Duration + Naps,29340,Yes
+1/15/2025,4,Wednesday,Sleep Duration + Naps,34260,No
+1/16/2025,5,Thursday,Sleep Duration + Naps,31200,Yes
+1/17/2025,6,Friday,Sleep Duration + Naps,30720,No
+1/18/2025,7,Saturday,Sleep Duration + Naps,27480,Yes
+1/19/2025,1,Sunday,Sleep Duration + Naps,37440,Yes
+1/20/2025,2,Monday,Sleep Duration + Naps,39060,No
+1/21/2025,3,Tuesday,Sleep Duration + Naps,37020,Yes
+1/22/2025,4,Wednesday,Sleep Duration + Naps,22980,No
+1/23/2025,5,Thursday,Sleep Duration + Naps,30600,Yes
+1/24/2025,6,Friday,Sleep Duration + Naps,30180,Yes
+1/25/2025,7,Saturday,Sleep Duration + Naps,23760,Yes
+1/26/2025,1,Sunday,Sleep Duration + Naps,18660,No
+1/27/2025,2,Monday,Sleep Duration + Naps,48120,No
+1/28/2025,3,Tuesday,Sleep Duration + Naps,26760,Yes
+1/29/2025,4,Wednesday,Sleep Duration + Naps,31860,No
+1/30/2025,5,Thursday,Sleep Duration + Naps,27000,Yes
+1/31/2025,6,Friday,Sleep Duration + Naps,34860,Yes
+2/1/2025,7,Saturday,Sleep Duration + Naps,38280,Yes
+2/2/2025,1,Sunday,Sleep Duration + Naps,41640,Yes
+2/3/2025,2,Monday,Sleep Duration + Naps,26340,No
+2/4/2025,3,Tuesday,Sleep Duration + Naps,27540,No
+2/5/2025,4,Wednesday,Sleep Duration + Naps,33540,No
+2/6/2025,5,Thursday,Sleep Duration + Naps,35340,No
+2/7/2025,6,Friday,Sleep Duration + Naps,40260,Yes
+2/8/2025,7,Saturday,Sleep Duration + Naps,26340,No
+2/9/2025,1,Sunday,Sleep Duration + Naps,30000,Yes
+2/10/2025,2,Monday,Sleep Duration + Naps,24780,Yes
+2/11/2025,3,Tuesday,Sleep Duration + Naps,31080,Yes
+2/12/2025,4,Wednesday,Sleep Duration + Naps,27960,No
+2/13/2025,5,Thursday,Sleep Duration + Naps,29220,Yes
+2/14/2025,6,Friday,Sleep Duration + Naps,31140,Yes
+2/15/2025,7,Saturday,Sleep Duration + Naps,32160,Yes
+2/16/2025,1,Sunday,Sleep Duration + Naps,29460,No
+2/17/2025,2,Monday,Sleep Duration + Naps,16020,No
+2/18/2025,3,Tuesday,Sleep Duration + Naps,29700,Yes
+2/19/2025,4,Wednesday,Sleep Duration + Naps,31620,No
+2/20/2025,5,Thursday,Sleep Duration + Naps,28380,Yes
+2/21/2025,6,Friday,Sleep Duration + Naps,35880,No
+2/22/2025,7,Saturday,Sleep Duration + Naps,35460,Yes
+2/23/2025,1,Sunday,Sleep Duration + Naps,26100,Yes
+2/24/2025,2,Monday,Sleep Duration + Naps,30720,Yes
+2/25/2025,3,Tuesday,Sleep Duration + Naps,34980,No
+2/26/2025,4,Wednesday,Sleep Duration + Naps,28500,Yes
+2/27/2025,5,Thursday,Sleep Duration + Naps,30240,Yes
+2/28/2025,6,Friday,Sleep Duration + Naps,46860,Yes
+3/1/2025,7,Saturday,Sleep Duration + Naps,34980,Yes
+3/2/2025,1,Sunday,Sleep Duration + Naps,34860,Yes
+3/3/2025,2,Monday,Sleep Duration + Naps,35280,No
+3/4/2025,3,Tuesday,Sleep Duration + Naps,41700,No
+3/5/2025,4,Wednesday,Sleep Duration + Naps,35520,No
+3/6/2025,5,Thursday,Sleep Duration + Naps,41700,Yes
+3/7/2025,6,Friday,Sleep Duration + Naps,13440,Yes
+3/8/2025,7,Saturday,Sleep Duration + Naps,38880,Yes
+3/9/2025,1,Sunday,Sleep Duration + Naps,26760,Yes
+3/10/2025,2,Monday,Sleep Duration + Naps,31140,Yes
+3/11/2025,3,Tuesday,Sleep Duration + Naps,26640,Yes
+3/12/2025,4,Wednesday,Sleep Duration + Naps,34560,Yes
+3/13/2025,5,Thursday,Sleep Duration + Naps,34020,Yes
+3/14/2025,6,Friday,Sleep Duration + Naps,35700,No
+3/15/2025,7,Saturday,Sleep Duration + Naps,22380,Yes
+3/16/2025,1,Sunday,Sleep Duration + Naps,45720,No
+3/17/2025,2,Monday,Sleep Duration + Naps,18360,No
+3/18/2025,3,Tuesday,Sleep Duration + Naps,31680,Yes
+3/19/2025,4,Wednesday,Sleep Duration + Naps,31320,Yes
+3/20/2025,5,Thursday,Sleep Duration + Naps,32220,No
+3/21/2025,6,Friday,Sleep Duration + Naps,28920,Yes
+3/22/2025,7,Saturday,Sleep Duration + Naps,20760,Yes
+3/23/2025,1,Sunday,Sleep Duration + Naps,40620,No
+3/24/2025,2,Monday,Sleep Duration + Naps,28140,Yes
+3/25/2025,3,Tuesday,Sleep Duration + Naps,31500,Yes
+3/26/2025,4,Wednesday,Sleep Duration + Naps,32460,Yes
+3/27/2025,5,Thursday,Sleep Duration + Naps,31140,No
+3/28/2025,6,Friday,Sleep Duration + Naps,28140,Yes
+3/29/2025,7,Saturday,Sleep Duration + Naps,21900,Yes
+3/30/2025,1,Sunday,Sleep Duration + Naps,32100,Yes
+3/31/2025,2,Monday,Sleep Duration + Naps,36900,Yes
+4/1/2025,3,Tuesday,Sleep Duration + Naps,26820,No
+4/2/2025,4,Wednesday,Sleep Duration + Naps,20160,No
+4/3/2025,5,Thursday,Sleep Duration + Naps,31680,Yes
+4/4/2025,6,Friday,Sleep Duration + Naps,29460,Yes
+4/5/2025,7,Saturday,Sleep Duration + Naps,33480,Yes
+4/6/2025,1,Sunday,Sleep Duration + Naps,20700,No
+4/7/2025,2,Monday,Sleep Duration + Naps,29340,Yes
+4/8/2025,3,Tuesday,Sleep Duration + Naps,28440,No
+4/9/2025,4,Wednesday,Sleep Duration + Naps,20880,Yes
+4/10/2025,5,Thursday,Sleep Duration + Naps,33000,Yes
+4/11/2025,6,Friday,Sleep Duration + Naps,37860,Yes
+4/12/2025,7,Saturday,Sleep Duration + Naps,38820,No
+4/13/2025,1,Sunday,Sleep Duration + Naps,11460,No
+4/14/2025,2,Monday,Sleep Duration + Naps,28980,Yes
+4/15/2025,3,Tuesday,Sleep Duration + Naps,21960,Yes
+4/16/2025,4,Wednesday,Sleep Duration + Naps,35520,Yes
+4/17/2025,5,Thursday,Sleep Duration + Naps,31620,Yes
+4/18/2025,6,Friday,Sleep Duration + Naps,30540,Yes
+4/19/2025,7,Saturday,Sleep Duration + Naps,32520,Yes
+4/20/2025,1,Sunday,Sleep Duration + Naps,25200,No
+4/21/2025,2,Monday,Sleep Duration + Naps,38160,No
+4/22/2025,3,Tuesday,Sleep Duration + Naps,37860,No
+4/23/2025,4,Wednesday,Sleep Duration + Naps,33900,No
+4/24/2025,5,Thursday,Sleep Duration + Naps,30060,Yes
+4/25/2025,6,Friday,Sleep Duration + Naps,22140,No
+4/26/2025,7,Saturday,Sleep Duration + Naps,28440,Yes
+4/27/2025,1,Sunday,Sleep Duration + Naps,27060,Yes
+4/28/2025,2,Monday,Sleep Duration + Naps,33060,Yes
+4/29/2025,3,Tuesday,Sleep Duration + Naps,34380,Yes
+4/30/2025,4,Wednesday,Sleep Duration + Naps,33360,No
+5/1/2025,5,Thursday,Sleep Duration + Naps,21960,No
+5/2/2025,6,Friday,Sleep Duration + Naps,33840,Yes
+5/3/2025,7,Saturday,Sleep Duration + Naps,40320,Yes
+5/4/2025,1,Sunday,Sleep Duration + Naps,28800,Yes
+5/5/2025,2,Monday,Sleep Duration + Naps,25560,No
+5/6/2025,3,Tuesday,Sleep Duration + Naps,39720,No
+5/7/2025,4,Wednesday,Sleep Duration + Naps,38040,Yes
+5/8/2025,5,Thursday,Sleep Duration + Naps,29220,Yes
+5/9/2025,6,Friday,Sleep Duration + Naps,28440,Yes
+5/10/2025,7,Saturday,Sleep Duration + Naps,33540,Yes
+5/11/2025,1,Sunday,Sleep Duration + Naps,31800,No
+5/12/2025,2,Monday,Sleep Duration + Naps,25920,No
+5/13/2025,3,Tuesday,Sleep Duration + Naps,28620,Yes
+5/14/2025,4,Wednesday,Sleep Duration + Naps,33900,Yes
+5/15/2025,5,Thursday,Sleep Duration + Naps,25560,Yes
+5/16/2025,6,Friday,Sleep Duration + Naps,28440,No
+5/17/2025,7,Saturday,Sleep Duration + Naps,36540,No
+5/18/2025,1,Sunday,Sleep Duration + Naps,27660,Yes
+5/19/2025,2,Monday,Sleep Duration + Naps,43680,No
+5/20/2025,3,Tuesday,Sleep Duration + Naps,30120,Yes
+5/21/2025,4,Wednesday,Sleep Duration + Naps,27540,Yes
+5/22/2025,5,Thursday,Sleep Duration + Naps,28800,Yes
+5/23/2025,6,Friday,Sleep Duration + Naps,31380,No
+5/24/2025,7,Saturday,Sleep Duration + Naps,25440,No
+5/25/2025,1,Sunday,Sleep Duration + Naps,20280,No
+5/26/2025,2,Monday,Sleep Duration + Naps,24360,Yes
+5/27/2025,3,Tuesday,Sleep Duration + Naps,27900,No
+5/28/2025,4,Wednesday,Sleep Duration + Naps,31200,No
+5/29/2025,5,Thursday,Sleep Duration + Naps,29160,No
+5/30/2025,6,Friday,Sleep Duration + Naps,32280,No
+5/31/2025,7,Saturday,Sleep Duration + Naps,36000,No
+6/1/2025,1,Sunday,Sleep Duration + Naps,29940,Yes
+6/2/2025,2,Monday,Sleep Duration + Naps,29520,No
+6/3/2025,3,Tuesday,Sleep Duration + Naps,29700,Yes
+6/4/2025,4,Wednesday,Sleep Duration + Naps,25800,Yes
+6/5/2025,5,Thursday,Sleep Duration + Naps,31560,Yes
+6/6/2025,6,Friday,Sleep Duration + Naps,26520,No
+6/7/2025,7,Saturday,Sleep Duration + Naps,27660,Yes
+6/8/2025,1,Sunday,Sleep Duration + Naps,30420,Yes
+6/9/2025,2,Monday,Sleep Duration + Naps,29640,No
+6/10/2025,3,Tuesday,Sleep Duration + Naps,27000,No
+6/11/2025,4,Wednesday,Sleep Duration + Naps,31140,No
+6/12/2025,5,Thursday,Sleep Duration + Naps,35580,No
+6/13/2025,6,Friday,Sleep Duration + Naps,30060,No
+6/14/2025,7,Saturday,Sleep Duration + Naps,32580,No
+6/15/2025,1,Sunday,Sleep Duration + Naps,29580,No
+6/16/2025,2,Monday,Sleep Duration + Naps,24660,Yes
+6/17/2025,3,Tuesday,Sleep Duration + Naps,34740,Yes
+6/18/2025,4,Wednesday,Sleep Duration + Naps,23820,No
+6/19/2025,5,Thursday,Sleep Duration + Naps,24420,No
+6/20/2025,6,Friday,Sleep Duration + Naps,26940,Yes
+6/21/2025,7,Saturday,Sleep Duration + Naps,26280,Yes
+6/22/2025,1,Sunday,Sleep Duration + Naps,32400,Yes
+6/23/2025,2,Monday,Sleep Duration + Naps,23460,No
+6/24/2025,3,Tuesday,Sleep Duration + Naps,31920,No
+6/25/2025,4,Wednesday,Sleep Duration + Naps,26820,Yes
+6/26/2025,5,Thursday,Sleep Duration + Naps,28680,Yes
+6/27/2025,6,Friday,Sleep Duration + Naps,28740,Yes
+6/28/2025,7,Saturday,Sleep Duration + Naps,28380,Yes
+6/29/2025,1,Sunday,Sleep Duration + Naps,30540,Yes
+6/30/2025,2,Monday,Sleep Duration + Naps,30960,Yes
+7/1/2025,3,Tuesday,Sleep Duration + Naps,27540,Yes
+7/2/2025,4,Wednesday,Sleep Duration + Naps,31200,Yes
+7/3/2025,5,Thursday,Sleep Duration + Naps,29820,No
+7/4/2025,6,Friday,Sleep Duration + Naps,31560,No
+7/5/2025,7,Saturday,Sleep Duration + Naps,32520,Yes
+7/6/2025,1,Sunday,Sleep Duration + Naps,28200,Yes
+7/7/2025,2,Monday,Sleep Duration + Naps,28080,Yes
+7/8/2025,3,Tuesday,Sleep Duration + Naps,27240,No
+7/9/2025,4,Wednesday,Sleep Duration + Naps,38820,No
+7/10/2025,5,Thursday,Sleep Duration + Naps,34800,No
+7/11/2025,6,Friday,Sleep Duration + Naps,31020,Yes
+7/12/2025,7,Saturday,Sleep Duration + Naps,29760,No
+7/13/2025,1,Sunday,Sleep Duration + Naps,26640,Yes
+8/11/2024,1,Sunday,Sleep Duration - Wakeups,10800,No
+8/12/2024,2,Monday,Sleep Duration - Wakeups,24600,Yes
+8/13/2024,3,Tuesday,Sleep Duration - Wakeups,26400,Yes
+8/14/2024,4,Wednesday,Sleep Duration - Wakeups,19800,No
+8/15/2024,5,Thursday,Sleep Duration - Wakeups,30900,No
+8/16/2024,6,Friday,Sleep Duration - Wakeups,26100,Yes
+8/17/2024,7,Saturday,Sleep Duration - Wakeups,25020,No
+8/18/2024,1,Sunday,Sleep Duration - Wakeups,25560,No
+8/19/2024,2,Monday,Sleep Duration - Wakeups,28740,No
+8/20/2024,3,Tuesday,Sleep Duration - Wakeups,22500,No
+8/21/2024,4,Wednesday,Sleep Duration - Wakeups,28800,Yes
+8/22/2024,5,Thursday,Sleep Duration - Wakeups,25800,No
+8/23/2024,6,Friday,Sleep Duration - Wakeups,21600,No
+8/24/2024,7,Saturday,Sleep Duration - Wakeups,24060,No
+8/25/2024,1,Sunday,Sleep Duration - Wakeups,28800,Yes
+8/26/2024,2,Monday,Sleep Duration - Wakeups,28500,Yes
+8/27/2024,3,Tuesday,Sleep Duration - Wakeups,25260,Yes
+8/28/2024,4,Wednesday,Sleep Duration - Wakeups,26700,No
+8/29/2024,5,Thursday,Sleep Duration - Wakeups,28800,Yes
+8/30/2024,6,Friday,Sleep Duration - Wakeups,32160,No
+8/31/2024,7,Saturday,Sleep Duration - Wakeups,32100,No
+9/1/2024,1,Sunday,Sleep Duration - Wakeups,27000,No
+9/2/2024,2,Monday,Sleep Duration - Wakeups,30960,Yes
+9/3/2024,3,Tuesday,Sleep Duration - Wakeups,22560,No
+9/4/2024,4,Wednesday,Sleep Duration - Wakeups,26220,No
+9/6/2024,6,Friday,Sleep Duration - Wakeups,22980,No
+9/7/2024,7,Saturday,Sleep Duration - Wakeups,23760,No
+9/8/2024,1,Sunday,Sleep Duration - Wakeups,33660,No
+9/9/2024,2,Monday,Sleep Duration - Wakeups,28800,No
+9/10/2024,3,Tuesday,Sleep Duration - Wakeups,28440,Yes
+9/11/2024,4,Wednesday,Sleep Duration - Wakeups,27300,Yes
+9/12/2024,5,Thursday,Sleep Duration - Wakeups,26220,Yes
+9/13/2024,6,Friday,Sleep Duration - Wakeups,30120,No
+9/14/2024,7,Saturday,Sleep Duration - Wakeups,24900,Yes
+9/15/2024,1,Sunday,Sleep Duration - Wakeups,29460,Yes
+9/16/2024,2,Monday,Sleep Duration - Wakeups,28920,Yes
+9/17/2024,3,Tuesday,Sleep Duration - Wakeups,24720,No
+9/18/2024,4,Wednesday,Sleep Duration - Wakeups,32400,No
+9/19/2024,5,Thursday,Sleep Duration - Wakeups,27600,No
+9/20/2024,6,Friday,Sleep Duration - Wakeups,30180,Yes
+9/21/2024,7,Saturday,Sleep Duration - Wakeups,27180,Yes
+9/22/2024,1,Sunday,Sleep Duration - Wakeups,28320,Yes
+9/23/2024,2,Monday,Sleep Duration - Wakeups,28200,Yes
+9/24/2024,3,Tuesday,Sleep Duration - Wakeups,27240,Yes
+9/25/2024,4,Wednesday,Sleep Duration - Wakeups,23880,Yes
+9/26/2024,5,Thursday,Sleep Duration - Wakeups,29700,No
+9/27/2024,6,Friday,Sleep Duration - Wakeups,28200,No
+9/28/2024,7,Saturday,Sleep Duration - Wakeups,27000,No
+9/29/2024,1,Sunday,Sleep Duration - Wakeups,23460,Yes
+9/30/2024,2,Monday,Sleep Duration - Wakeups,18900,Yes
+10/1/2024,3,Tuesday,Sleep Duration - Wakeups,29220,Yes
+10/2/2024,4,Wednesday,Sleep Duration - Wakeups,26160,No
+10/3/2024,5,Thursday,Sleep Duration - Wakeups,30960,Yes
+10/4/2024,6,Friday,Sleep Duration - Wakeups,29940,Yes
+10/5/2024,7,Saturday,Sleep Duration - Wakeups,28260,Yes
+10/6/2024,1,Sunday,Sleep Duration - Wakeups,29040,Yes
+10/7/2024,2,Monday,Sleep Duration - Wakeups,30300,No
+10/8/2024,3,Tuesday,Sleep Duration - Wakeups,28560,Yes
+10/9/2024,4,Wednesday,Sleep Duration - Wakeups,28800,Yes
+10/10/2024,5,Thursday,Sleep Duration - Wakeups,24840,Yes
+10/11/2024,6,Friday,Sleep Duration - Wakeups,26460,No
+10/12/2024,7,Saturday,Sleep Duration - Wakeups,23460,No
+10/13/2024,1,Sunday,Sleep Duration - Wakeups,30540,Yes
+10/14/2024,2,Monday,Sleep Duration - Wakeups,22320,No
+10/15/2024,3,Tuesday,Sleep Duration - Wakeups,30240,Yes
+10/16/2024,4,Wednesday,Sleep Duration - Wakeups,28440,Yes
+10/17/2024,5,Thursday,Sleep Duration - Wakeups,31500,Yes
+10/18/2024,6,Friday,Sleep Duration - Wakeups,28200,Yes
+10/19/2024,7,Saturday,Sleep Duration - Wakeups,26160,Yes
+10/20/2024,1,Sunday,Sleep Duration - Wakeups,25260,Yes
+10/21/2024,2,Monday,Sleep Duration - Wakeups,26460,No
+10/22/2024,3,Tuesday,Sleep Duration - Wakeups,24960,No
+10/23/2024,4,Wednesday,Sleep Duration - Wakeups,25320,Yes
+10/24/2024,5,Thursday,Sleep Duration - Wakeups,36660,No
+10/25/2024,6,Friday,Sleep Duration - Wakeups,25380,Yes
+10/26/2024,7,Saturday,Sleep Duration - Wakeups,29880,No
+10/27/2024,1,Sunday,Sleep Duration - Wakeups,25140,No
+10/28/2024,2,Monday,Sleep Duration - Wakeups,28560,Yes
+10/29/2024,3,Tuesday,Sleep Duration - Wakeups,26880,Yes
+10/30/2024,4,Wednesday,Sleep Duration - Wakeups,29820,Yes
+10/31/2024,5,Thursday,Sleep Duration - Wakeups,24120,Yes
+11/1/2024,6,Friday,Sleep Duration - Wakeups,26400,No
+11/2/2024,7,Saturday,Sleep Duration - Wakeups,19860,No
+11/3/2024,1,Sunday,Sleep Duration - Wakeups,28020,No
+11/4/2024,2,Monday,Sleep Duration - Wakeups,23820,Yes
+11/5/2024,3,Tuesday,Sleep Duration - Wakeups,27660,Yes
+11/6/2024,4,Wednesday,Sleep Duration - Wakeups,31140,Yes
+11/7/2024,5,Thursday,Sleep Duration - Wakeups,24060,Yes
+11/8/2024,6,Friday,Sleep Duration - Wakeups,24780,Yes
+11/9/2024,7,Saturday,Sleep Duration - Wakeups,32340,Yes
+11/10/2024,1,Sunday,Sleep Duration - Wakeups,25320,Yes
+11/11/2024,2,Monday,Sleep Duration - Wakeups,18660,Yes
+11/12/2024,3,Tuesday,Sleep Duration - Wakeups,39360,No
+11/13/2024,4,Wednesday,Sleep Duration - Wakeups,36600,No
+11/14/2024,5,Thursday,Sleep Duration - Wakeups,25680,No
+11/15/2024,6,Friday,Sleep Duration - Wakeups,19200,Yes
+11/16/2024,7,Saturday,Sleep Duration - Wakeups,34440,Yes
+11/17/2024,1,Sunday,Sleep Duration - Wakeups,30960,No
+11/18/2024,2,Monday,Sleep Duration - Wakeups,25380,Yes
+11/19/2024,3,Tuesday,Sleep Duration - Wakeups,29460,No
+11/20/2024,4,Wednesday,Sleep Duration - Wakeups,25440,No
+11/21/2024,5,Thursday,Sleep Duration - Wakeups,28500,Yes
+11/22/2024,6,Friday,Sleep Duration - Wakeups,26880,Yes
+11/23/2024,7,Saturday,Sleep Duration - Wakeups,26700,Yes
+11/24/2024,1,Sunday,Sleep Duration - Wakeups,30780,Yes
+11/25/2024,2,Monday,Sleep Duration - Wakeups,33720,No
+11/26/2024,3,Tuesday,Sleep Duration - Wakeups,39240,No
+11/27/2024,4,Wednesday,Sleep Duration - Wakeups,25560,Yes
+11/28/2024,5,Thursday,Sleep Duration - Wakeups,30120,Yes
+11/29/2024,6,Friday,Sleep Duration - Wakeups,28860,No
+11/30/2024,7,Saturday,Sleep Duration - Wakeups,32100,No
+12/1/2024,1,Sunday,Sleep Duration - Wakeups,28200,Yes
+12/2/2024,2,Monday,Sleep Duration - Wakeups,23700,No
+12/3/2024,3,Tuesday,Sleep Duration - Wakeups,37020,No
+12/4/2024,4,Wednesday,Sleep Duration - Wakeups,23400,No
+12/5/2024,5,Thursday,Sleep Duration - Wakeups,25800,No
+12/6/2024,6,Friday,Sleep Duration - Wakeups,7200,Yes
+12/7/2024,7,Saturday,Sleep Duration - Wakeups,28800,Yes
+12/8/2024,1,Sunday,Sleep Duration - Wakeups,28920,Yes
+12/9/2024,2,Monday,Sleep Duration - Wakeups,24480,No
+12/10/2024,3,Tuesday,Sleep Duration - Wakeups,27900,Yes
+12/11/2024,4,Wednesday,Sleep Duration - Wakeups,29820,Yes
+12/12/2024,5,Thursday,Sleep Duration - Wakeups,30240,Yes
+12/13/2024,6,Friday,Sleep Duration - Wakeups,30540,Yes
+12/14/2024,7,Saturday,Sleep Duration - Wakeups,30480,Yes
+12/15/2024,1,Sunday,Sleep Duration - Wakeups,35100,No
+12/16/2024,2,Monday,Sleep Duration - Wakeups,21900,No
+12/17/2024,3,Tuesday,Sleep Duration - Wakeups,29340,No
+12/18/2024,4,Wednesday,Sleep Duration - Wakeups,29820,Yes
+12/19/2024,5,Thursday,Sleep Duration - Wakeups,28980,Yes
+12/20/2024,6,Friday,Sleep Duration - Wakeups,22260,No
+12/21/2024,7,Saturday,Sleep Duration - Wakeups,26520,No
+12/22/2024,1,Sunday,Sleep Duration - Wakeups,25680,No
+12/23/2024,2,Monday,Sleep Duration - Wakeups,26340,No
+12/24/2024,3,Tuesday,Sleep Duration - Wakeups,21840,No
+12/25/2024,4,Wednesday,Sleep Duration - Wakeups,33360,No
+12/26/2024,5,Thursday,Sleep Duration - Wakeups,21000,No
+12/27/2024,6,Friday,Sleep Duration - Wakeups,31560,No
+12/28/2024,7,Saturday,Sleep Duration - Wakeups,26760,No
+12/29/2024,1,Sunday,Sleep Duration - Wakeups,35760,No
+12/30/2024,2,Monday,Sleep Duration - Wakeups,21420,No
+12/31/2024,3,Tuesday,Sleep Duration - Wakeups,19140,No
+1/1/2025,4,Wednesday,Sleep Duration - Wakeups,36060,No
+1/2/2025,5,Thursday,Sleep Duration - Wakeups,34920,Yes
+1/3/2025,6,Friday,Sleep Duration - Wakeups,31020,Yes
+1/4/2025,7,Saturday,Sleep Duration - Wakeups,24120,No
+1/5/2025,1,Sunday,Sleep Duration - Wakeups,38220,No
+1/6/2025,2,Monday,Sleep Duration - Wakeups,26460,Yes
+1/7/2025,3,Tuesday,Sleep Duration - Wakeups,24300,Yes
+1/8/2025,4,Wednesday,Sleep Duration - Wakeups,13380,No
+1/9/2025,5,Thursday,Sleep Duration - Wakeups,23760,No
+1/10/2025,6,Friday,Sleep Duration - Wakeups,24540,No
+1/11/2025,7,Saturday,Sleep Duration - Wakeups,31560,Yes
+1/12/2025,1,Sunday,Sleep Duration - Wakeups,26280,No
+1/13/2025,2,Monday,Sleep Duration - Wakeups,16020,No
+1/14/2025,3,Tuesday,Sleep Duration - Wakeups,29340,Yes
+1/15/2025,4,Wednesday,Sleep Duration - Wakeups,28860,No
+1/16/2025,5,Thursday,Sleep Duration - Wakeups,25800,Yes
+1/17/2025,6,Friday,Sleep Duration - Wakeups,30720,No
+1/18/2025,7,Saturday,Sleep Duration - Wakeups,27480,Yes
+1/19/2025,1,Sunday,Sleep Duration - Wakeups,37440,Yes
+1/20/2025,2,Monday,Sleep Duration - Wakeups,39060,No
+1/21/2025,3,Tuesday,Sleep Duration - Wakeups,37020,Yes
+1/22/2025,4,Wednesday,Sleep Duration - Wakeups,22380,No
+1/23/2025,5,Thursday,Sleep Duration - Wakeups,30600,Yes
+1/24/2025,6,Friday,Sleep Duration - Wakeups,30180,Yes
+1/25/2025,7,Saturday,Sleep Duration - Wakeups,23160,Yes
+1/26/2025,1,Sunday,Sleep Duration - Wakeups,15060,No
+1/27/2025,2,Monday,Sleep Duration - Wakeups,31920,No
+1/28/2025,3,Tuesday,Sleep Duration - Wakeups,15960,Yes
+1/29/2025,4,Wednesday,Sleep Duration - Wakeups,24660,No
+1/30/2025,5,Thursday,Sleep Duration - Wakeups,27000,Yes
+1/31/2025,6,Friday,Sleep Duration - Wakeups,31260,Yes
+2/1/2025,7,Saturday,Sleep Duration - Wakeups,38280,Yes
+2/2/2025,1,Sunday,Sleep Duration - Wakeups,41640,Yes
+2/3/2025,2,Monday,Sleep Duration - Wakeups,26340,No
+2/4/2025,3,Tuesday,Sleep Duration - Wakeups,27540,No
+2/5/2025,4,Wednesday,Sleep Duration - Wakeups,29940,No
+2/6/2025,5,Thursday,Sleep Duration - Wakeups,29940,No
+2/7/2025,6,Friday,Sleep Duration - Wakeups,27660,Yes
+2/8/2025,7,Saturday,Sleep Duration - Wakeups,26340,No
+2/9/2025,1,Sunday,Sleep Duration - Wakeups,30000,Yes
+2/10/2025,2,Monday,Sleep Duration - Wakeups,24780,Yes
+2/11/2025,3,Tuesday,Sleep Duration - Wakeups,29280,Yes
+2/12/2025,4,Wednesday,Sleep Duration - Wakeups,27960,No
+2/13/2025,5,Thursday,Sleep Duration - Wakeups,29220,Yes
+2/14/2025,6,Friday,Sleep Duration - Wakeups,29340,Yes
+2/15/2025,7,Saturday,Sleep Duration - Wakeups,32160,Yes
+2/16/2025,1,Sunday,Sleep Duration - Wakeups,29460,No
+2/17/2025,2,Monday,Sleep Duration - Wakeups,8820,No
+2/18/2025,3,Tuesday,Sleep Duration - Wakeups,29700,Yes
+2/19/2025,4,Wednesday,Sleep Duration - Wakeups,31620,No
+2/20/2025,5,Thursday,Sleep Duration - Wakeups,21180,Yes
+2/21/2025,6,Friday,Sleep Duration - Wakeups,35880,No
+2/22/2025,7,Saturday,Sleep Duration - Wakeups,28260,Yes
+2/23/2025,1,Sunday,Sleep Duration - Wakeups,18900,Yes
+2/24/2025,2,Monday,Sleep Duration - Wakeups,30720,Yes
+2/25/2025,3,Tuesday,Sleep Duration - Wakeups,24180,No
+2/26/2025,4,Wednesday,Sleep Duration - Wakeups,23100,Yes
+2/27/2025,5,Thursday,Sleep Duration - Wakeups,23040,Yes
+2/28/2025,6,Friday,Sleep Duration - Wakeups,32460,Yes
+3/1/2025,7,Saturday,Sleep Duration - Wakeups,31380,Yes
+3/2/2025,1,Sunday,Sleep Duration - Wakeups,27660,Yes
+3/3/2025,2,Monday,Sleep Duration - Wakeups,31680,No
+3/4/2025,3,Tuesday,Sleep Duration - Wakeups,30900,No
+3/5/2025,4,Wednesday,Sleep Duration - Wakeups,35520,No
+3/6/2025,5,Thursday,Sleep Duration - Wakeups,16500,Yes
+3/7/2025,6,Friday,Sleep Duration - Wakeups,6240,Yes
+3/8/2025,7,Saturday,Sleep Duration - Wakeups,24480,Yes
+3/9/2025,1,Sunday,Sleep Duration - Wakeups,24960,Yes
+3/10/2025,2,Monday,Sleep Duration - Wakeups,31140,Yes
+3/11/2025,3,Tuesday,Sleep Duration - Wakeups,26040,Yes
+3/12/2025,4,Wednesday,Sleep Duration - Wakeups,34560,Yes
+3/13/2025,5,Thursday,Sleep Duration - Wakeups,29820,Yes
+3/14/2025,6,Friday,Sleep Duration - Wakeups,35700,No
+3/15/2025,7,Saturday,Sleep Duration - Wakeups,22380,Yes
+3/16/2025,1,Sunday,Sleep Duration - Wakeups,34920,No
+3/17/2025,2,Monday,Sleep Duration - Wakeups,14760,No
+3/18/2025,3,Tuesday,Sleep Duration - Wakeups,31680,Yes
+3/19/2025,4,Wednesday,Sleep Duration - Wakeups,31320,Yes
+3/20/2025,5,Thursday,Sleep Duration - Wakeups,31620,No
+3/21/2025,6,Friday,Sleep Duration - Wakeups,25320,Yes
+3/22/2025,7,Saturday,Sleep Duration - Wakeups,20580,Yes
+3/23/2025,1,Sunday,Sleep Duration - Wakeups,31620,No
+3/24/2025,2,Monday,Sleep Duration - Wakeups,20940,Yes
+3/25/2025,3,Tuesday,Sleep Duration - Wakeups,31200,Yes
+3/26/2025,4,Wednesday,Sleep Duration - Wakeups,31260,Yes
+3/27/2025,5,Thursday,Sleep Duration - Wakeups,31080,No
+3/28/2025,6,Friday,Sleep Duration - Wakeups,20940,Yes
+3/29/2025,7,Saturday,Sleep Duration - Wakeups,21900,Yes
+3/30/2025,1,Sunday,Sleep Duration - Wakeups,32100,Yes
+3/31/2025,2,Monday,Sleep Duration - Wakeups,36300,Yes
+4/1/2025,3,Tuesday,Sleep Duration - Wakeups,25620,No
+4/2/2025,4,Wednesday,Sleep Duration - Wakeups,9360,No
+4/3/2025,5,Thursday,Sleep Duration - Wakeups,24480,Yes
+4/4/2025,6,Friday,Sleep Duration - Wakeups,22260,Yes
+4/5/2025,7,Saturday,Sleep Duration - Wakeups,33480,Yes
+4/6/2025,1,Sunday,Sleep Duration - Wakeups,19500,No
+4/7/2025,2,Monday,Sleep Duration - Wakeups,29340,Yes
+4/8/2025,3,Tuesday,Sleep Duration - Wakeups,26640,No
+4/9/2025,4,Wednesday,Sleep Duration - Wakeups,20880,Yes
+4/10/2025,5,Thursday,Sleep Duration - Wakeups,29400,Yes
+4/11/2025,6,Friday,Sleep Duration - Wakeups,30660,Yes
+4/12/2025,7,Saturday,Sleep Duration - Wakeups,31620,No
+4/13/2025,1,Sunday,Sleep Duration - Wakeups,11460,No
+4/14/2025,2,Monday,Sleep Duration - Wakeups,14580,Yes
+4/15/2025,3,Tuesday,Sleep Duration - Wakeups,21960,Yes
+4/16/2025,4,Wednesday,Sleep Duration - Wakeups,35520,Yes
+4/17/2025,5,Thursday,Sleep Duration - Wakeups,31620,Yes
+4/18/2025,6,Friday,Sleep Duration - Wakeups,30540,Yes
+4/19/2025,7,Saturday,Sleep Duration - Wakeups,32520,Yes
+4/20/2025,1,Sunday,Sleep Duration - Wakeups,25200,No
+4/21/2025,2,Monday,Sleep Duration - Wakeups,27360,No
+4/22/2025,3,Tuesday,Sleep Duration - Wakeups,19860,No
+4/23/2025,4,Wednesday,Sleep Duration - Wakeups,26700,No
+4/24/2025,5,Thursday,Sleep Duration - Wakeups,26460,Yes
+4/25/2025,6,Friday,Sleep Duration - Wakeups,22140,No
+4/26/2025,7,Saturday,Sleep Duration - Wakeups,24840,Yes
+4/27/2025,1,Sunday,Sleep Duration - Wakeups,27060,Yes
+4/28/2025,2,Monday,Sleep Duration - Wakeups,25860,Yes
+4/29/2025,3,Tuesday,Sleep Duration - Wakeups,26580,Yes
+4/30/2025,4,Wednesday,Sleep Duration - Wakeups,27960,No
+5/1/2025,5,Thursday,Sleep Duration - Wakeups,14760,No
+5/2/2025,6,Friday,Sleep Duration - Wakeups,23040,Yes
+5/3/2025,7,Saturday,Sleep Duration - Wakeups,29520,Yes
+5/4/2025,1,Sunday,Sleep Duration - Wakeups,28800,Yes
+5/5/2025,2,Monday,Sleep Duration - Wakeups,25560,No
+5/6/2025,3,Tuesday,Sleep Duration - Wakeups,36120,No
+5/7/2025,4,Wednesday,Sleep Duration - Wakeups,30840,Yes
+5/8/2025,5,Thursday,Sleep Duration - Wakeups,22020,Yes
+5/9/2025,6,Friday,Sleep Duration - Wakeups,28440,Yes
+5/10/2025,7,Saturday,Sleep Duration - Wakeups,26340,Yes
+5/11/2025,1,Sunday,Sleep Duration - Wakeups,28200,No
+5/12/2025,2,Monday,Sleep Duration - Wakeups,18720,No
+5/13/2025,3,Tuesday,Sleep Duration - Wakeups,28620,Yes
+5/14/2025,4,Wednesday,Sleep Duration - Wakeups,30300,Yes
+5/15/2025,5,Thursday,Sleep Duration - Wakeups,25560,Yes
+5/16/2025,6,Friday,Sleep Duration - Wakeups,27840,No
+5/17/2025,7,Saturday,Sleep Duration - Wakeups,23940,No
+5/18/2025,1,Sunday,Sleep Duration - Wakeups,27660,Yes
+5/19/2025,2,Monday,Sleep Duration - Wakeups,29280,No
+5/20/2025,3,Tuesday,Sleep Duration - Wakeups,30120,Yes
+5/21/2025,4,Wednesday,Sleep Duration - Wakeups,27540,Yes
+5/22/2025,5,Thursday,Sleep Duration - Wakeups,28800,Yes
+5/23/2025,6,Friday,Sleep Duration - Wakeups,29580,No
+5/24/2025,7,Saturday,Sleep Duration - Wakeups,24240,No
+5/25/2025,1,Sunday,Sleep Duration - Wakeups,19380,No
+5/26/2025,2,Monday,Sleep Duration - Wakeups,24360,Yes
+5/27/2025,3,Tuesday,Sleep Duration - Wakeups,27600,No
+5/28/2025,4,Wednesday,Sleep Duration - Wakeups,27600,No
+5/29/2025,5,Thursday,Sleep Duration - Wakeups,25560,No
+5/30/2025,6,Friday,Sleep Duration - Wakeups,26280,No
+5/31/2025,7,Saturday,Sleep Duration - Wakeups,18000,No
+6/1/2025,1,Sunday,Sleep Duration - Wakeups,29940,Yes
+6/2/2025,2,Monday,Sleep Duration - Wakeups,27720,No
+6/3/2025,3,Tuesday,Sleep Duration - Wakeups,29700,Yes
+6/4/2025,4,Wednesday,Sleep Duration - Wakeups,25800,Yes
+6/5/2025,5,Thursday,Sleep Duration - Wakeups,24360,Yes
+6/6/2025,6,Friday,Sleep Duration - Wakeups,26340,No
+6/7/2025,7,Saturday,Sleep Duration - Wakeups,27660,Yes
+6/8/2025,1,Sunday,Sleep Duration - Wakeups,30420,Yes
+6/9/2025,2,Monday,Sleep Duration - Wakeups,26940,No
+6/10/2025,3,Tuesday,Sleep Duration - Wakeups,24300,No
+6/11/2025,4,Wednesday,Sleep Duration - Wakeups,26340,No
+6/12/2025,5,Thursday,Sleep Duration - Wakeups,34260,No
+6/13/2025,6,Friday,Sleep Duration - Wakeups,24660,No
+6/14/2025,7,Saturday,Sleep Duration - Wakeups,31320,No
+6/15/2025,1,Sunday,Sleep Duration - Wakeups,25980,No
+6/16/2025,2,Monday,Sleep Duration - Wakeups,24660,Yes
+6/17/2025,3,Tuesday,Sleep Duration - Wakeups,34740,Yes
+6/18/2025,4,Wednesday,Sleep Duration - Wakeups,23820,No
+6/19/2025,5,Thursday,Sleep Duration - Wakeups,20820,No
+6/20/2025,6,Friday,Sleep Duration - Wakeups,26940,Yes
+6/21/2025,7,Saturday,Sleep Duration - Wakeups,22680,Yes
+6/22/2025,1,Sunday,Sleep Duration - Wakeups,25200,Yes
+6/23/2025,2,Monday,Sleep Duration - Wakeups,16260,No
+6/24/2025,3,Tuesday,Sleep Duration - Wakeups,28320,No
+6/25/2025,4,Wednesday,Sleep Duration - Wakeups,26820,Yes
+6/26/2025,5,Thursday,Sleep Duration - Wakeups,28680,Yes
+6/27/2025,6,Friday,Sleep Duration - Wakeups,28740,Yes
+6/28/2025,7,Saturday,Sleep Duration - Wakeups,28380,Yes
+6/29/2025,1,Sunday,Sleep Duration - Wakeups,30540,Yes
+6/30/2025,2,Monday,Sleep Duration - Wakeups,30960,Yes
+7/1/2025,3,Tuesday,Sleep Duration - Wakeups,27540,Yes
+7/2/2025,4,Wednesday,Sleep Duration - Wakeups,31200,Yes
+7/3/2025,5,Thursday,Sleep Duration - Wakeups,29820,No
+7/4/2025,6,Friday,Sleep Duration - Wakeups,31560,No
+7/5/2025,7,Saturday,Sleep Duration - Wakeups,25320,Yes
+7/6/2025,1,Sunday,Sleep Duration - Wakeups,21000,Yes
+7/7/2025,2,Monday,Sleep Duration - Wakeups,28080,Yes
+7/8/2025,3,Tuesday,Sleep Duration - Wakeups,26340,No
+7/9/2025,4,Wednesday,Sleep Duration - Wakeups,28020,No
+7/10/2025,5,Thursday,Sleep Duration - Wakeups,15000,No
+7/11/2025,6,Friday,Sleep Duration - Wakeups,31020,Yes
+7/12/2025,7,Saturday,Sleep Duration - Wakeups,22560,No
+7/13/2025,1,Sunday,Sleep Duration - Wakeups,26640,Yes
+8/11/2024,1,Sunday,True Sleep,16800,No
+8/12/2024,2,Monday,True Sleep,24600,Yes
+8/13/2024,3,Tuesday,True Sleep,26400,Yes
+8/14/2024,4,Wednesday,True Sleep,29700,No
+8/15/2024,5,Thursday,True Sleep,30900,No
+8/16/2024,6,Friday,True Sleep,28800,Yes
+8/17/2024,7,Saturday,True Sleep,25020,No
+8/18/2024,1,Sunday,True Sleep,25560,No
+8/19/2024,2,Monday,True Sleep,28740,No
+8/20/2024,3,Tuesday,True Sleep,22500,No
+8/21/2024,4,Wednesday,True Sleep,28800,Yes
+8/22/2024,5,Thursday,True Sleep,25800,No
+8/23/2024,6,Friday,True Sleep,21600,No
+8/24/2024,7,Saturday,True Sleep,28860,No
+8/25/2024,1,Sunday,True Sleep,28800,Yes
+8/26/2024,2,Monday,True Sleep,28500,Yes
+8/27/2024,3,Tuesday,True Sleep,25260,Yes
+8/28/2024,4,Wednesday,True Sleep,26700,No
+8/29/2024,5,Thursday,True Sleep,33960,Yes
+8/30/2024,6,Friday,True Sleep,34860,No
+8/31/2024,7,Saturday,True Sleep,32100,No
+9/1/2024,1,Sunday,True Sleep,27000,No
+9/2/2024,2,Monday,True Sleep,38160,Yes
+9/3/2024,3,Tuesday,True Sleep,22560,No
+9/4/2024,4,Wednesday,True Sleep,33420,No
+9/6/2024,6,Friday,True Sleep,22980,No
+9/7/2024,7,Saturday,True Sleep,30960,No
+9/8/2024,1,Sunday,True Sleep,33660,No
+9/9/2024,2,Monday,True Sleep,28800,No
+9/10/2024,3,Tuesday,True Sleep,32040,Yes
+9/11/2024,4,Wednesday,True Sleep,27300,Yes
+9/12/2024,5,Thursday,True Sleep,26220,Yes
+9/13/2024,6,Friday,True Sleep,35520,No
+9/14/2024,7,Saturday,True Sleep,24900,Yes
+9/15/2024,1,Sunday,True Sleep,29460,Yes
+9/16/2024,2,Monday,True Sleep,28920,Yes
+9/17/2024,3,Tuesday,True Sleep,24720,No
+9/18/2024,4,Wednesday,True Sleep,32400,No
+9/19/2024,5,Thursday,True Sleep,27600,No
+9/20/2024,6,Friday,True Sleep,30180,Yes
+9/21/2024,7,Saturday,True Sleep,27180,Yes
+9/22/2024,1,Sunday,True Sleep,33960,Yes
+9/23/2024,2,Monday,True Sleep,32520,Yes
+9/24/2024,3,Tuesday,True Sleep,27240,Yes
+9/25/2024,4,Wednesday,True Sleep,23880,Yes
+9/26/2024,5,Thursday,True Sleep,29700,No
+9/27/2024,6,Friday,True Sleep,28200,No
+9/28/2024,7,Saturday,True Sleep,27000,No
+9/29/2024,1,Sunday,True Sleep,23460,Yes
+9/30/2024,2,Monday,True Sleep,18900,Yes
+10/1/2024,3,Tuesday,True Sleep,29220,Yes
+10/2/2024,4,Wednesday,True Sleep,26160,No
+10/3/2024,5,Thursday,True Sleep,30960,Yes
+10/4/2024,6,Friday,True Sleep,29940,Yes
+10/5/2024,7,Saturday,True Sleep,28260,Yes
+10/6/2024,1,Sunday,True Sleep,29040,Yes
+10/7/2024,2,Monday,True Sleep,30300,No
+10/8/2024,3,Tuesday,True Sleep,34200,Yes
+10/9/2024,4,Wednesday,True Sleep,28800,Yes
+10/10/2024,5,Thursday,True Sleep,24840,Yes
+10/11/2024,6,Friday,True Sleep,26460,No
+10/12/2024,7,Saturday,True Sleep,23460,No
+10/13/2024,1,Sunday,True Sleep,30540,Yes
+10/14/2024,2,Monday,True Sleep,22320,No
+10/15/2024,3,Tuesday,True Sleep,30240,Yes
+10/16/2024,4,Wednesday,True Sleep,28440,Yes
+10/17/2024,5,Thursday,True Sleep,31500,Yes
+10/18/2024,6,Friday,True Sleep,28200,Yes
+10/19/2024,7,Saturday,True Sleep,26160,Yes
+10/20/2024,1,Sunday,True Sleep,26760,Yes
+10/21/2024,2,Monday,True Sleep,26460,No
+10/22/2024,3,Tuesday,True Sleep,24960,No
+10/23/2024,4,Wednesday,True Sleep,25320,Yes
+10/24/2024,5,Thursday,True Sleep,36660,No
+10/25/2024,6,Friday,True Sleep,25380,Yes
+10/26/2024,7,Saturday,True Sleep,29880,No
+10/27/2024,1,Sunday,True Sleep,25140,No
+10/28/2024,2,Monday,True Sleep,29940,Yes
+10/29/2024,3,Tuesday,True Sleep,26880,Yes
+10/30/2024,4,Wednesday,True Sleep,29820,Yes
+10/31/2024,5,Thursday,True Sleep,25320,Yes
+11/1/2024,6,Friday,True Sleep,26400,No
+11/2/2024,7,Saturday,True Sleep,19860,No
+11/3/2024,1,Sunday,True Sleep,28020,No
+11/4/2024,2,Monday,True Sleep,23820,Yes
+11/5/2024,3,Tuesday,True Sleep,27660,Yes
+11/6/2024,4,Wednesday,True Sleep,31140,Yes
+11/7/2024,5,Thursday,True Sleep,24060,Yes
+11/8/2024,6,Friday,True Sleep,24780,Yes
+11/9/2024,7,Saturday,True Sleep,32340,Yes
+11/10/2024,1,Sunday,True Sleep,25320,Yes
+11/11/2024,2,Monday,True Sleep,18660,Yes
+11/12/2024,3,Tuesday,True Sleep,39360,No
+11/13/2024,4,Wednesday,True Sleep,36600,No
+11/14/2024,5,Thursday,True Sleep,25680,No
+11/15/2024,6,Friday,True Sleep,19200,Yes
+11/16/2024,7,Saturday,True Sleep,34440,Yes
+11/17/2024,1,Sunday,True Sleep,30960,No
+11/18/2024,2,Monday,True Sleep,35280,Yes
+11/19/2024,3,Tuesday,True Sleep,29460,No
+11/20/2024,4,Wednesday,True Sleep,25440,No
+11/21/2024,5,Thursday,True Sleep,28500,Yes
+11/22/2024,6,Friday,True Sleep,26880,Yes
+11/23/2024,7,Saturday,True Sleep,26700,Yes
+11/24/2024,1,Sunday,True Sleep,30780,Yes
+11/25/2024,2,Monday,True Sleep,33720,No
+11/26/2024,3,Tuesday,True Sleep,39240,No
+11/27/2024,4,Wednesday,True Sleep,25560,Yes
+11/28/2024,5,Thursday,True Sleep,30120,Yes
+11/29/2024,6,Friday,True Sleep,28860,No
+11/30/2024,7,Saturday,True Sleep,35100,No
+12/1/2024,1,Sunday,True Sleep,28200,Yes
+12/2/2024,2,Monday,True Sleep,23700,No
+12/3/2024,3,Tuesday,True Sleep,37020,No
+12/4/2024,4,Wednesday,True Sleep,23400,No
+12/5/2024,5,Thursday,True Sleep,33000,No
+12/6/2024,6,Friday,True Sleep,7200,Yes
+12/7/2024,7,Saturday,True Sleep,28800,Yes
+12/8/2024,1,Sunday,True Sleep,28920,Yes
+12/9/2024,2,Monday,True Sleep,31680,No
+12/10/2024,3,Tuesday,True Sleep,27900,Yes
+12/11/2024,4,Wednesday,True Sleep,29820,Yes
+12/12/2024,5,Thursday,True Sleep,30240,Yes
+12/13/2024,6,Friday,True Sleep,30540,Yes
+12/14/2024,7,Saturday,True Sleep,30480,Yes
+12/15/2024,1,Sunday,True Sleep,35100,No
+12/16/2024,2,Monday,True Sleep,29100,No
+12/17/2024,3,Tuesday,True Sleep,29340,No
+12/18/2024,4,Wednesday,True Sleep,29820,Yes
+12/19/2024,5,Thursday,True Sleep,28980,Yes
+12/20/2024,6,Friday,True Sleep,22260,No
+12/21/2024,7,Saturday,True Sleep,33720,No
+12/22/2024,1,Sunday,True Sleep,25680,No
+12/23/2024,2,Monday,True Sleep,26340,No
+12/24/2024,3,Tuesday,True Sleep,21840,No
+12/25/2024,4,Wednesday,True Sleep,33360,No
+12/26/2024,5,Thursday,True Sleep,21000,No
+12/27/2024,6,Friday,True Sleep,31560,No
+12/28/2024,7,Saturday,True Sleep,26760,No
+12/29/2024,1,Sunday,True Sleep,35760,No
+12/30/2024,2,Monday,True Sleep,21420,No
+12/31/2024,3,Tuesday,True Sleep,19140,No
+1/1/2025,4,Wednesday,True Sleep,36060,No
+1/2/2025,5,Thursday,True Sleep,34920,Yes
+1/3/2025,6,Friday,True Sleep,31020,Yes
+1/4/2025,7,Saturday,True Sleep,24120,No
+1/5/2025,1,Sunday,True Sleep,38220,No
+1/6/2025,2,Monday,True Sleep,26460,Yes
+1/7/2025,3,Tuesday,True Sleep,24300,Yes
+1/8/2025,4,Wednesday,True Sleep,13380,No
+1/9/2025,5,Thursday,True Sleep,23760,No
+1/10/2025,6,Friday,True Sleep,24540,No
+1/11/2025,7,Saturday,True Sleep,31560,Yes
+1/12/2025,1,Sunday,True Sleep,26280,No
+1/13/2025,2,Monday,True Sleep,16020,No
+1/14/2025,3,Tuesday,True Sleep,29340,Yes
+1/15/2025,4,Wednesday,True Sleep,28860,No
+1/16/2025,5,Thursday,True Sleep,25800,Yes
+1/17/2025,6,Friday,True Sleep,30720,No
+1/18/2025,7,Saturday,True Sleep,27480,Yes
+1/19/2025,1,Sunday,True Sleep,37440,Yes
+1/20/2025,2,Monday,True Sleep,39060,No
+1/21/2025,3,Tuesday,True Sleep,37020,Yes
+1/22/2025,4,Wednesday,True Sleep,22380,No
+1/23/2025,5,Thursday,True Sleep,30600,Yes
+1/24/2025,6,Friday,True Sleep,30180,Yes
+1/25/2025,7,Saturday,True Sleep,23160,Yes
+1/26/2025,1,Sunday,True Sleep,18660,No
+1/27/2025,2,Monday,True Sleep,48120,No
+1/28/2025,3,Tuesday,True Sleep,15960,Yes
+1/29/2025,4,Wednesday,True Sleep,31860,No
+1/30/2025,5,Thursday,True Sleep,27000,Yes
+1/31/2025,6,Friday,True Sleep,34860,Yes
+2/1/2025,7,Saturday,True Sleep,38280,Yes
+2/2/2025,1,Sunday,True Sleep,41640,Yes
+2/3/2025,2,Monday,True Sleep,26340,No
+2/4/2025,3,Tuesday,True Sleep,27540,No
+2/5/2025,4,Wednesday,True Sleep,29940,No
+2/6/2025,5,Thursday,True Sleep,29940,No
+2/7/2025,6,Friday,True Sleep,34860,Yes
+2/8/2025,7,Saturday,True Sleep,26340,No
+2/9/2025,1,Sunday,True Sleep,30000,Yes
+2/10/2025,2,Monday,True Sleep,24780,Yes
+2/11/2025,3,Tuesday,True Sleep,31080,Yes
+2/12/2025,4,Wednesday,True Sleep,27960,No
+2/13/2025,5,Thursday,True Sleep,29220,Yes
+2/14/2025,6,Friday,True Sleep,29340,Yes
+2/15/2025,7,Saturday,True Sleep,32160,Yes
+2/16/2025,1,Sunday,True Sleep,29460,No
+2/17/2025,2,Monday,True Sleep,12420,No
+2/18/2025,3,Tuesday,True Sleep,29700,Yes
+2/19/2025,4,Wednesday,True Sleep,31620,No
+2/20/2025,5,Thursday,True Sleep,21180,Yes
+2/21/2025,6,Friday,True Sleep,35880,No
+2/22/2025,7,Saturday,True Sleep,28260,Yes
+2/23/2025,1,Sunday,True Sleep,18900,Yes
+2/24/2025,2,Monday,True Sleep,30720,Yes
+2/25/2025,3,Tuesday,True Sleep,24180,No
+2/26/2025,4,Wednesday,True Sleep,23100,Yes
+2/27/2025,5,Thursday,True Sleep,30240,Yes
+2/28/2025,6,Friday,True Sleep,46860,Yes
+3/1/2025,7,Saturday,True Sleep,34980,Yes
+3/2/2025,1,Sunday,True Sleep,34860,Yes
+3/3/2025,2,Monday,True Sleep,35280,No
+3/4/2025,3,Tuesday,True Sleep,41700,No
+3/5/2025,4,Wednesday,True Sleep,35520,No
+3/6/2025,5,Thursday,True Sleep,27300,Yes
+3/7/2025,6,Friday,True Sleep,6240,Yes
+3/8/2025,7,Saturday,True Sleep,38880,Yes
+3/9/2025,1,Sunday,True Sleep,26760,Yes
+3/10/2025,2,Monday,True Sleep,31140,Yes
+3/11/2025,3,Tuesday,True Sleep,26040,Yes
+3/12/2025,4,Wednesday,True Sleep,34560,Yes
+3/13/2025,5,Thursday,True Sleep,33420,Yes
+3/14/2025,6,Friday,True Sleep,35700,No
+3/15/2025,7,Saturday,True Sleep,22380,Yes
+3/16/2025,1,Sunday,True Sleep,45720,No
+3/17/2025,2,Monday,True Sleep,14760,No
+3/18/2025,3,Tuesday,True Sleep,31680,Yes
+3/19/2025,4,Wednesday,True Sleep,31320,Yes
+3/20/2025,5,Thursday,True Sleep,31620,No
+3/21/2025,6,Friday,True Sleep,25320,Yes
+3/22/2025,7,Saturday,True Sleep,20580,Yes
+3/23/2025,1,Sunday,True Sleep,40620,No
+3/24/2025,2,Monday,True Sleep,20940,Yes
+3/25/2025,3,Tuesday,True Sleep,31200,Yes
+3/26/2025,4,Wednesday,True Sleep,31260,Yes
+3/27/2025,5,Thursday,True Sleep,31080,No
+3/28/2025,6,Friday,True Sleep,20940,Yes
+3/29/2025,7,Saturday,True Sleep,21900,Yes
+3/30/2025,1,Sunday,True Sleep,32100,Yes
+3/31/2025,2,Monday,True Sleep,36300,Yes
+4/1/2025,3,Tuesday,True Sleep,25620,No
+4/2/2025,4,Wednesday,True Sleep,9360,No
+4/3/2025,5,Thursday,True Sleep,31680,Yes
+4/4/2025,6,Friday,True Sleep,29460,Yes
+4/5/2025,7,Saturday,True Sleep,33480,Yes
+4/6/2025,1,Sunday,True Sleep,19500,No
+4/7/2025,2,Monday,True Sleep,29340,Yes
+4/8/2025,3,Tuesday,True Sleep,28440,No
+4/9/2025,4,Wednesday,True Sleep,20880,Yes
+4/10/2025,5,Thursday,True Sleep,33000,Yes
+4/11/2025,6,Friday,True Sleep,37860,Yes
+4/12/2025,7,Saturday,True Sleep,38820,No
+4/13/2025,1,Sunday,True Sleep,11460,No
+4/14/2025,2,Monday,True Sleep,28980,Yes
+4/15/2025,3,Tuesday,True Sleep,21960,Yes
+4/16/2025,4,Wednesday,True Sleep,35520,Yes
+4/17/2025,5,Thursday,True Sleep,31620,Yes
+4/18/2025,6,Friday,True Sleep,30540,Yes
+4/19/2025,7,Saturday,True Sleep,32520,Yes
+4/20/2025,1,Sunday,True Sleep,25200,No
+4/21/2025,2,Monday,True Sleep,38160,No
+4/22/2025,3,Tuesday,True Sleep,34260,No
+4/23/2025,4,Wednesday,True Sleep,33900,No
+4/24/2025,5,Thursday,True Sleep,30060,Yes
+4/25/2025,6,Friday,True Sleep,22140,No
+4/26/2025,7,Saturday,True Sleep,28440,Yes
+4/27/2025,1,Sunday,True Sleep,27060,Yes
+4/28/2025,2,Monday,True Sleep,33060,Yes
+4/29/2025,3,Tuesday,True Sleep,33780,Yes
+4/30/2025,4,Wednesday,True Sleep,33360,No
+5/1/2025,5,Thursday,True Sleep,20160,No
+5/2/2025,6,Friday,True Sleep,33840,Yes
+5/3/2025,7,Saturday,True Sleep,40320,Yes
+5/4/2025,1,Sunday,True Sleep,28800,Yes
+5/5/2025,2,Monday,True Sleep,25560,No
+5/6/2025,3,Tuesday,True Sleep,39720,No
+5/7/2025,4,Wednesday,True Sleep,30840,Yes
+5/8/2025,5,Thursday,True Sleep,22020,Yes
+5/9/2025,6,Friday,True Sleep,28440,Yes
+5/10/2025,7,Saturday,True Sleep,33540,Yes
+5/11/2025,1,Sunday,True Sleep,31800,No
+5/12/2025,2,Monday,True Sleep,25920,No
+5/13/2025,3,Tuesday,True Sleep,28620,Yes
+5/14/2025,4,Wednesday,True Sleep,33900,Yes
+5/15/2025,5,Thursday,True Sleep,25560,Yes
+5/16/2025,6,Friday,True Sleep,27840,No
+5/17/2025,7,Saturday,True Sleep,34740,No
+5/18/2025,1,Sunday,True Sleep,27660,Yes
+5/19/2025,2,Monday,True Sleep,43680,No
+5/20/2025,3,Tuesday,True Sleep,30120,Yes
+5/21/2025,4,Wednesday,True Sleep,27540,Yes
+5/22/2025,5,Thursday,True Sleep,28800,Yes
+5/23/2025,6,Friday,True Sleep,29580,No
+5/24/2025,7,Saturday,True Sleep,24240,No
+5/25/2025,1,Sunday,True Sleep,20280,No
+5/26/2025,2,Monday,True Sleep,24360,Yes
+5/27/2025,3,Tuesday,True Sleep,27600,No
+5/28/2025,4,Wednesday,True Sleep,27600,No
+5/29/2025,5,Thursday,True Sleep,25560,No
+5/30/2025,6,Friday,True Sleep,29880,No
+5/31/2025,7,Saturday,True Sleep,21600,No
+6/1/2025,1,Sunday,True Sleep,29940,Yes
+6/2/2025,2,Monday,True Sleep,27720,No
+6/3/2025,3,Tuesday,True Sleep,29700,Yes
+6/4/2025,4,Wednesday,True Sleep,25800,Yes
+6/5/2025,5,Thursday,True Sleep,31560,Yes
+6/6/2025,6,Friday,True Sleep,26340,No
+6/7/2025,7,Saturday,True Sleep,27660,Yes
+6/8/2025,1,Sunday,True Sleep,30420,Yes
+6/9/2025,2,Monday,True Sleep,26940,No
+6/10/2025,3,Tuesday,True Sleep,24300,No
+6/11/2025,4,Wednesday,True Sleep,26340,No
+6/12/2025,5,Thursday,True Sleep,34260,No
+6/13/2025,6,Friday,True Sleep,24660,No
+6/14/2025,7,Saturday,True Sleep,31320,No
+6/15/2025,1,Sunday,True Sleep,25980,No
+6/16/2025,2,Monday,True Sleep,24660,Yes
+6/17/2025,3,Tuesday,True Sleep,34740,Yes
+6/18/2025,4,Wednesday,True Sleep,23820,No
+6/19/2025,5,Thursday,True Sleep,20820,No
+6/20/2025,6,Friday,True Sleep,26940,Yes
+6/21/2025,7,Saturday,True Sleep,26280,Yes
+6/22/2025,1,Sunday,True Sleep,32400,Yes
+6/23/2025,2,Monday,True Sleep,23460,No
+6/24/2025,3,Tuesday,True Sleep,28320,No
+6/25/2025,4,Wednesday,True Sleep,26820,Yes
+6/26/2025,5,Thursday,True Sleep,28680,Yes
+6/27/2025,6,Friday,True Sleep,28740,Yes
+6/28/2025,7,Saturday,True Sleep,28380,Yes
+6/29/2025,1,Sunday,True Sleep,30540,Yes
+6/30/2025,2,Monday,True Sleep,30960,Yes
+7/1/2025,3,Tuesday,True Sleep,27540,Yes
+7/2/2025,4,Wednesday,True Sleep,31200,Yes
+7/3/2025,5,Thursday,True Sleep,29820,No
+7/4/2025,6,Friday,True Sleep,31560,No
+7/5/2025,7,Saturday,True Sleep,32520,Yes
+7/6/2025,1,Sunday,True Sleep,28200,Yes
+7/7/2025,2,Monday,True Sleep,28080,Yes
+7/8/2025,3,Tuesday,True Sleep,26340,No
+7/9/2025,4,Wednesday,True Sleep,38820,No
+7/10/2025,5,Thursday,True Sleep,33000,No
+7/11/2025,6,Friday,True Sleep,31020,Yes
+7/12/2025,7,Saturday,True Sleep,29760,No
+7/13/2025,1,Sunday,True Sleep,26640,Yes
