@@ -5,13 +5,21 @@ How did you sleep last night?  Did you feel rested when you woke up?  Did you ev
 
 We started simple at first by doing some basic research, normal doctors visits, etc., but the more we tried different things the more questions arose.  Worst of all, even after all that research and trying different suggestions, she was still having serious sleep issues.  But then I had epiphany... at the time, I was Data Analyst at meat processing and distribution company while working on my Google Data Analyst Certification.  I realized with my skills acquired from my job and the certificate course, I could perform a sleep study and use that data to find out why she was having issues with her sleep. Hence, I present an ongoing study of sleep patterns and behaviors of a remarkable woman.  
 
-## Background/Project Evolution:
-
 ## Data:
-The sleep data is collected periodically through Google Forms and from the ZEPP app and stored on Google Sheets. This data is then cleaned, processed, and transformed and linked to a live Looker Studio dashboard.
+
+* The sleep data is collected periodically through Google Forms and from the ZEPP app and stored on Google Sheets. This data is then cleaned, processed, and transformed and linked to a live Looker Studio dashboard.
+
+## Live Dashboard: 
+[**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
+
+## Live Datasource: 
+[**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?usp=sharing)
+
+* The data itself is split into 2 different sheets/.csv files:
+  1. Dashboard Data - The main datasource containing all available data.
+  2. Flattened Dashboard Data - A flattened version of the main datasource that allows certain graphics to be created in Looker Studio.
 
 ### **Data Types:**
-
 **Dashboard Data**
 1. Date - In MM/DD/YYYY format.
 2. Day of Week (Numeric)	- Numeric Day of the Week starting at 1 = Sunday.
@@ -20,7 +28,7 @@ The sleep data is collected periodically through Google Forms and from the ZEPP 
 5. Rise Time (Morning After Date-Night) - Wakeup time of the following night in HH:MM:SS AM/PM format.
 6. Sleep Duration	- Duration of sleep in HH:MM:SS format.
 7. Sleep Duration (Seconds)	- Duration of sleep in numeric seconds.
-8. Stimulants	- Type of stimulant consumed in the morning.  Options: Coffee, Tea, Decaf, None
+8. Stimulants	- Type of stimulant consumed in the morning. (Coffee, Tea, Decaf, None)
 9. Amount of Liquid (mL) - Amount of stimulants consumed.	
 10. Rested (corrected) - Binary (Yes/No) sleep quality metric.  Collected on wakeup of following day, but recorded on the date of the actual sleep. 
 11. Before Sleep Mood (Happy, Sad, Anxious, Agitated, Content, Calm) - Generalized mood before going to sleep.
@@ -41,12 +49,14 @@ The sleep data is collected periodically through Google Forms and from the ZEPP 
 26. True Sleep - Duration of sleep plus the duration of the nap minus the wakeup duration in HH:MM:SS.
 27. True Sleep (sec) - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
 
-## Live Dashboard: 
-[**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
-
-## Live Datasource: 
-[**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?usp=sharing)
-
+**Flattened Data**
+1. Date - In MM/DD/YYYY format.
+2. Week_Numeric - Numeric Day of the Week starting at 1 = Sunday.
+3. Week_String - String day of the week starting on Sunday.
+4. Sleep_Metric_Type - Type of sleep metric.  (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wakeups, True Sleep (Naps - Wakeups))
+5. Value_in_Seconds - Duration of sleep metric in seconds.
+6. Rested - Binary (Yes/No) metric determining sleep quality. 
+                          				
 ## 🚀 **Future Plans**
 
 **In Progress:**
