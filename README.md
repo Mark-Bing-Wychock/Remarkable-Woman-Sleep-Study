@@ -15,9 +15,13 @@ We started simple at first by doing some basic research, normal doctors visits, 
 ## Live Datasource: 
 [**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?usp=sharing)
 
-* The data itself is split into 2 different sheets/.csv files:
-  1. Dashboard Data - The main datasource containing all available data.
-  2. Flattened Dashboard Data - A flattened version of the main datasource that allows certain graphics to be created in Looker Studio.
+The data is organized into two primary tabs/sheets within this public Google Sheet:
+* **`Dashboard Data`**: The main dataset containing all available features used in the dashboard.
+* **`Flattened Dashboard Data`**: A transformed version of the main data, specifically structured to enable certain advanced visualizations in Looker Studio.
+
+A static snapshot of the raw data used for this project's last major update is also available in this repository: 
+* [remarkable_woman_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_dashboard_data.csv)
+* [remarkable_woman_flattened_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_flattened_dashboard_data.csv)
 
 ### **Data Types:**
 **Dashboard Data**
