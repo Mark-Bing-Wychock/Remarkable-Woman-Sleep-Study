@@ -25,9 +25,9 @@ A static snapshot of the raw data used for this project's last major update is a
 
 ### **Data Schema:**
 **Dashboard Data**
-1. `Date` - In MM/DD/YYYY format.
-2. `Day of Week (Numeric)`	- Numeric Day of the Week starting at 1 = Sunday.
-3. `Day of the Week` - String day of the week starting on Sunday.
+1. **`Date`** - In MM/DD/YYYY format.
+2. **`Day of Week (Numeric)`**	- Numeric Day of the Week starting at 1 = Sunday.
+3. **`Day of the Week`** - String day of the week starting on Sunday.
 4. `Bed Time (Night of Date)` - Bed time that corresponds with date of recording in HH:MM:SS AM/PM format.
 5. `Rise Time (Morning After Date-Night)` - Wakeup time of the following night in HH:MM:SS AM/PM format.
 6. `Sleep Duration`	- Duration of sleep in HH:MM:SS format.
