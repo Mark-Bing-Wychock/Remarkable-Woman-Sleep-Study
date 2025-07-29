@@ -13,31 +13,33 @@ The sleep data is collected periodically through Google Forms and from the ZEPP 
 ### **Data Types:**
 
 **Dashboard Data**
-Date	
-Day of Week (Numeric)	
-Day of the Week	Bed Time (Night of Date)	
-Rise Time (Morning After Date-Night)	
-Sleep Duration	
-Sleep Duration (Seconds)	
-Stimulants	
-Amount of Liquid (mL)	
-Rested (corrected)	
-Before Sleep Mood (Happy, Sad, Anxious, Agitated, Content, Calm)	
-Microsleep (5p-9p)	
-Nap Occured	
-Nap Start	
-Nap Wake Up	
-Nap Duration	
-Sleep Duration w/Naps	
-Sleep Duration+Naps (Sec)	
-Did I wake Up?	
-Wakeup Time	
-Fall Back Asleep Time	
-Fall Back Asleep Time (Min)	
-Fall Back Asleep Time (Sec)	
-Sleep-Wakeups	Sleep-Wakeups (sec)	
-Steps	True Sleep	
-True Sleep (sec)
+1. Date - In MM/DD/YYYY format.
+2. Day of Week (Numeric)	- Numeric Day of the Week starting at 1 = Sunday.
+3. Day of the Week - String day of the week starting on Sunday.
+4. Bed Time (Night of Date) - Bed time that corresponds with date of recording in HH:MM:SS AM/PM format.
+5. Rise Time (Morning After Date-Night) - Wakeup time of the following night in HH:MM:SS AM/PM format.
+6. Sleep Duration	- Duration of sleep in HH:MM:SS format.
+7. Sleep Duration (Seconds)	- Duration of sleep in numeric seconds.
+8. Stimulants	- Type of stimulant consumed in the morning.  Options: Coffee, Tea, Decaf, None
+9. Amount of Liquid (mL) - Amount of stimulants consumed.	
+10. Rested (corrected) - Binary (Yes/No) sleep quality metric.  Collected on wakeup of following day, but recorded on the date of the actual sleep. 
+11. Before Sleep Mood (Happy, Sad, Anxious, Agitated, Content, Calm) - Generalized mood before going to sleep.
+12. Microsleep (5p-9p) - Binary measure of whether a short sleep occured, but not long enough to count as a nap and in the evening hours.
+13. Nap Occured	- Binary (Yes/No) measure of whether a nap occured during the day.
+14. Nap Start	- Start time of nap in HH:MM:SS AM/PM format.
+15. Nap Wake Up	- End time of nap in HH:MM:SS AM/PM format.
+16. Nap Duration	- Duration of nap in HH:MM:SS.
+17. Sleep Duration + Nap Duration	- Duration of sleep plus the duration of the nap in HH:MM:SS.
+18. Sleep Duration + Nap Duration (Sec)	- Duration of sleep plus the duration of the nap converted to numeric seconds.
+19. Did I wake Up? - Binary (Yes/No) measure of whether	a wakeup occured in the middle of a sleep cycle (between Bedtime and Risetime).  Only counted once if there's multiple wakeups.
+20. Wakeup Time	- Time wakeup (or longest wakeup if multiple instances) occured in HH:MM:SS AM/PM.
+21. Fall Back Asleep Time	- Time when sleep resumed in HH:MM:SS AM/PM format.
+22. Wakeup Duration	- Duration of the interruption in sleep in HH:MM:SS.
+23. Wakeup Duration (Sec)	- Duration of the interruption in sleep in numeric seconds.
+24. Sleep Duration - Wakeup Duration (sec)	- Duration of sleep minus the duration of the wakeup in HH:MM:SS.
+25. Steps - Numeric number of steps walked during the day.
+26. True Sleep - Duration of sleep plus the duration of the nap minus the wakeup duration in HH:MM:SS.
+27. True Sleep (sec) - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
 
 ## Live Dashboard: 
 [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
