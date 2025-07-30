@@ -1,18 +1,19 @@
 # A Remarkable Woman's Sleep Journey: A Data-Driven Sleep Study
 
-## **The Idea**
-How did you sleep last night?  Did you feel rested when you woke up?  Did you ever wonder why?  These questions are the core of this sleep study.  My wife is a wonderful and amazing woman.  Lively, intelligent, and head strong.  Unfortunately, she's one of many who suffers from a myriad of sleep issues.  Often waking up in the middle of the night, having trouble falling asleep, and not feeling rested when she wakes up.  These issues can often result in chronic fatigue, mood swings, and lack of coordination.  We would often bicker about why she was having sleep issues: (whether it was an too early/too late of a bed time, how much she drank during the day, if she napped, etc.)  It was always treateda as a secondary issue or something you just deal with.  This sentiment changed however after she had a particularily close call where she collapsed from fatigue and nearly hit her head on a kitchen counter after a few consecutive nights of poor sleep; we realized something had to be done.  
+## 💡 Project Inspiration
 
-We started simple at first by doing some basic research, normal doctors visits, etc., but the more we tried different things the more questions arose.  Worst of all, even after all that research and trying different suggestions, she was still having serious sleep issues.  But then I had epiphany... at the time, I was Data Analyst at meat processing and distribution company while working on my Google Data Analyst Certification.  I realized with my skills acquired from my job and the certificate course, I could perform a sleep study and use that data to find out why she was having issues with her sleep. Hence, I present an ongoing study of sleep patterns and behaviors of a remarkable woman.  
+This project addresses a profoundly personal challenge: understanding and improving my wife's chronic sleep issues. She often struggles with restless nights, difficulty falling asleep, and persistent fatigue.  After a serious incident in 2024, we realized we needed to resolve this issue.
 
-## Data:
+Realizing the potential of deriving insights from personal data, I leveraged my expertise as a Data Analyst to initiate a comprehensive sleep study. This dashboard provides an ongoing, data-driven investigation into sleep patterns and behaviors of a remarkable woman, seeking to uncover the factors influencing her rest and well-being.
+
+## 📊 Data:
 
 * The sleep data is collected periodically through Google Forms and from the ZEPP app and stored on Google Sheets. This data is then cleaned, processed, and transformed and linked to a live Looker Studio dashboard.
 
-### Live Dashboard: 
+### <u>Live Dashboard:</u>
 [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
 
-### Public Datasource: 
+### <u>Public Datasource:</u>
 [**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?usp=sharing)
 
 The data is organized into two primary tabs/sheets within this public Google Sheet:
@@ -23,8 +24,8 @@ A static snapshot of the raw data used for this project's last major update is a
 * [remarkable_woman_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_dashboard_data.csv)
 * [remarkable_woman_flattened_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_flattened_dashboard_data.csv)
 
-### **Data Schema:**
-**Dashboard Data**
+### **<u>Data Schema</u>**
+**<u>Dashboard Data:</u>**
 1. `Date` - In MM/DD/YYYY format.
 2. `Day of Week (Numeric)` - Numeric Day of the Week starting at 1 = Sunday.
 3. `Day of the Week` - String day of the week starting on Sunday.
@@ -53,7 +54,7 @@ A static snapshot of the raw data used for this project's last major update is a
 26. `True Sleep` - Duration of sleep plus the duration of the nap minus the wakeup duration in HH:MM:SS.
 27. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
 
-**Flattened Data**
+**<u>Flattened Data:</u>**
 1. `Date` - In MM/DD/YYYY format.
 2. `Week_Numeric` - Numeric Day of the Week starting at 1 = Sunday.
 3. `Week_String` - String day of the week starting on Sunday.
@@ -63,11 +64,11 @@ A static snapshot of the raw data used for this project's last major update is a
                           				
 ## 🚀 **Future Plans**
 
-**In Progress:**
+**<u>In Progress:</u>**
 * (50% Completion) - Feature engineer bedtime variables and link to visualizations on dashboard to compare with rested vs. not rested variables.
 * (40% Completion) - Develop and deploy decision tree based machine learning models (MLM) with Python to discover additional insights.
 
-**Planned**
+**<u>Planned:</u>**
 * Transform and feature engineer continuous data into categorical and use Apriori Algorithms via Python to discover insights between different variables.
 * Link MLM model results to live dashboard and have it auto update when new data is periodically added.
 * Utilize APIs to automatically update static dashboard .csv files.
@@ -78,4 +79,7 @@ Have questions or want to connect? Feel free to reach out!
 * **LinkedIn:** linkedin.com/in/markbingwychock
 * **Email:** mark.bing.wychock@gmail.com
 
+This is normal text.
+<u>This text will be underlined.</u>
+This is normal text again.
 
