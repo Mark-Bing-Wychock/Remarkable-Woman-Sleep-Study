@@ -25,7 +25,7 @@ A static snapshot of the raw data used for this project's last major update is a
 * [remarkable_woman_flattened_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_flattened_dashboard_data.csv)
 
 ### **<ins>Data Schema:</ins>**
-**<ins>Dashboard Data:</ins>**
+**1. Dashboard Data:**
 1. `Date` - In MM/DD/YYYY format.
 2. `Day of Week (Numeric)` - Numeric Day of the Week starting at 1 = Sunday.
 3. `Day of the Week` - String day of the week starting on Sunday.
@@ -54,7 +54,7 @@ A static snapshot of the raw data used for this project's last major update is a
 26. `True Sleep` - Duration of sleep plus the duration of the nap minus the wakeup duration in HH:MM:SS.
 27. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
 
-**<ins>Flattened Data:</ins>**
+**2. Flattened Data:**
 1. `Date` - In MM/DD/YYYY format.
 2. `Week_Numeric` - Numeric Day of the Week starting at 1 = Sunday.
 3. `Week_String` - String day of the week starting on Sunday.
