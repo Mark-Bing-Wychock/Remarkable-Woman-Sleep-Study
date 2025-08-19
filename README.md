@@ -2,7 +2,7 @@
 
 ## 💡 Project Inspiration:
 
-This project addresses a profoundly personal challenge: understanding and improving my wife's chronic sleep issues. She often struggles with restless nights, difficulty falling asleep, and persistent fatigue.  After a serious incident in 2024, we realized we needed to resolve this issue.
+This project addresses a profoundly personal challenge: understanding and improving my wife's chronic sleep issues. She often struggles with restless nights, difficulty falling asleep, and persistent fatigue.  After a serious incident in 2024, we realized that we needed to take this issue seriously.
 
 Realizing the potential of deriving insights from personal data, I leveraged my expertise as a Data Analyst to initiate a comprehensive sleep study. This dashboard provides an ongoing, data-driven investigation into sleep patterns and behaviors of a remarkable woman, seeking to uncover the factors influencing her rest and well-being.
 
