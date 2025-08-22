@@ -30,12 +30,12 @@ A static snapshot of the raw data used for this project's last major update is a
 2. `Day of Week (Numeric)` - Numeric day of the week starting at 1 = Sunday.
 3. `Day of the Week` - String day of the week.
 4. `Bedtime (Night of Date)` - Bedtime that corresponds with the date of recording in HH:MM:SS AM/PM format.
-5. `Rise Time (Morning After Date-Night)` - Wakeup time of the following night in HH:MM:SS AM/PM format.
+5. `Rise Time (Morning After Date-Night)` - Wake-up time of the following night in HH:MM:SS AM/PM format.
 6. `Sleep Duration`	- Duration of sleep in HH:MM:SS format.
 7. `Sleep Duration (Seconds)`	- Duration of sleep in numeric seconds.
 8. `Stimulants`	- Type of stimulant consumed in the morning (Coffee, Tea, Decaf, None).
 9. `Amount of Liquid (mL)` - Amount of stimulants consumed.	
-10. `Rested (corrected)` - Binary (Yes/No) sleep quality metric.  Collected on wakeup of the following day, but recorded on the date of the actual sleep. 
+10. `Rested (corrected)` - Binary (Yes/No) sleep quality metric.  Collected on wake up of the following day, but recorded on the date of the Bedtime. 
 11. `Before Sleep Mood (Happy, Sad, Anxious, Agitated, Content, Calm)` - Generalized mood before going to sleep.
 12. `Microsleep (5p-9p)` - Binary measure of whether a short sleep occurred, but not long enough to count as a nap and in the evening hours.
 13. `Nap Occurred`	- Binary (Yes/No) measure of whether a nap occurred during the day.
@@ -44,22 +44,22 @@ A static snapshot of the raw data used for this project's last major update is a
 16. `Nap Duration`	- Duration of nap in HH:MM:SS.
 17. `Sleep Duration + Nap Duration`	- Duration of sleep plus the duration of the nap in HH:MM:SS.
 18. `Sleep Duration + Nap Duration (Sec)`	- Duration of sleep plus the duration of the nap converted to numeric seconds.
-19. `Did I Wake Up?` - Binary (Yes/No) measure of whether	a wakeup occurred in the middle of a sleep cycle (between Bedtime and Rise Time).  Only counted once if there are multiple wakeups.
-20. `Wakeup Time`	- Time wakeup (or longest wakeup if multiple instances) occurred in HH:MM:SS AM/PM.
+19. `Did I Wake Up?` - Binary (Yes/No) measure of whether	a wake-up occurred in the middle of a sleep cycle (between Bedtime and Rise Time).  Only counted once if there are multiple wake-ups.
+20. `Wake-up Time`	- Time wake-up (or longest wake-up if multiple instances) occurred in HH:MM:SS AM/PM.
 21. `Fall Back Asleep Time`	- Time when sleep resumed in HH:MM:SS AM/PM format.
-22. `Wakeup Duration`	- Duration of the interruption in sleep in HH:MM:SS.
-23. `Wakeup Duration (Sec)`	- Duration of the interruption in sleep converted to numeric seconds.
-24. `Sleep Duration - Wakeup Duration` - Duration of sleep minus the duration of the wakeup in HH:MM:SS.
-25. `Sleep Duration - Wakeup Duration (sec)`	- Duration of sleep minus the duration of the wakeup converted to numeric seconds.
+22. `Wake-up Duration`	- Duration of the interruption in sleep in HH:MM:SS.
+23. `Wake-up Duration (Sec)`	- Duration of the interruption in sleep converted to numeric seconds.
+24. `Sleep Duration - Wake-up Duration` - Duration of sleep minus the duration of the wake-up in HH:MM:SS.
+25. `Sleep Duration - Wake-up Duration (sec)`	- Duration of sleep minus the duration of the wake-up converted to numeric seconds.
 26. `Steps` - Numeric number of steps walked during the day.
-27. `True Sleep` - Duration of sleep plus the nap duration minus the wakeup duration in HH:MM:SS.
-28. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
+27. `True Sleep` - Duration of sleep plus the nap duration minus the wake-up duration in HH:MM:SS.
+28. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wake-up duration in numeric seconds.
 
 **Flattened Data:**
 1. `Date` - In MM/DD/YYYY format.
 2. `Week_Numeric` - Numeric day of the week starting at 1 = Sunday.
 3. `Week_String` - String day of the week.
-4. `Sleep_Metric_Type` - Type of sleep metric (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wakeups, True Sleep (Sleep Duration + Naps - Wakeups)).
+4. `Sleep_Metric_Type` - Type of sleep metric (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wake-ups, True Sleep (Sleep Duration + Naps - Wake-ups)).
 5. `Value_in_Seconds` - Duration of sleep metric in seconds.
 6. `Rested` - Binary (Yes/No) metric determining sleep quality. 
                           				
