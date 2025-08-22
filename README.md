@@ -42,7 +42,7 @@ A static snapshot of the raw data used for this project's last major update is a
 14. `Nap Start`	- Start time of nap in HH:MM:SS AM/PM format.
 15. `Nap Wake Up`	- End time of nap in HH:MM:SS AM/PM format.
 16. `Nap Duration`	- Duration of nap in HH:MM:SS.
-17. `Sleep Duration` + Nap Duration	- Duration of sleep plus the duration of the nap in HH:MM:SS.
+17. `Sleep Duration + Nap Duration`	- Duration of sleep plus the duration of the nap in HH:MM:SS.
 18. `Sleep Duration + Nap Duration (Sec)`	- Duration of sleep plus the duration of the nap converted to numeric seconds.
 19. `Did I wake Up?` - Binary (Yes/No) measure of whether	a wakeup occured in the middle of a sleep cycle (between Bedtime and Risetime).  Only counted once if there's multiple wakeups.
 20. `Wakeup Time`	- Time wakeup (or longest wakeup if multiple instances) occured in HH:MM:SS AM/PM.
