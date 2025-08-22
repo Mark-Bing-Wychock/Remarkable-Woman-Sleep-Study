@@ -16,20 +16,20 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 
   
 ### <ins>Public Datasource:</ins>
-* The data is organized into two primary tabs/sheets that can be accessed by using any standard spreadsheet software (Google Sheets, Excel, etc.) and contains:
+* The data is organized into two tabs/sheets that can be accessed by using any standard spreadsheet software (Google Sheets, Excel, etc.) and contains:
   * **`Dashboard Data`**: The main dataset containing all available features used in the dashboard.
-  * **`Flattened Dashboard Data`**: A transformed version of the main data, specifically structured to enable certain advanced visualizations in Looker Studio.
-* To view the underlying data, click the any of the links below:
+  * **`Flattened Dashboard Data`**: A partially transformed version of the main data, specifically structured to enable certain advanced visualizations in Looker Studio.
+* To view the underlying data, click on any of the links below:
 
-**Live Data:**
-  * [**👉 A Remarkable Woman's Sleep Journey - Public Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?gid=1274453153#gid=1274453153)
+1. **Live Data (Google Sheets):**
+  * [**👉 A Remarkable Woman's Sleep Journey - Live Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?gid=1274453153#gid=1274453153)
 
-**Excel File:**
-  * [Remarkable_Woman_Dashboard_Data_Public](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=xlsx)
+2. **Static Updated Excel File:**
+  * [**👉 A Remarkable Woman's Sleep Journey - Static  👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=xlsx)
 
-**Separate .CSV Files:**
-  * [remarkable_woman_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
-  * [remarkable_woman_flattened_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1368067057&single=true&output=csv)
+3. **Static Separate .CSV Files:**
+  * [**👉 Remarkable_Woman_Dashboard_Main_Dashboard_Data_Only 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
+  * [**👉 Remarkable_Woman_Dashboard_Flattened_Dashboard_Only 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1368067057&single=true&output=csv)
 
 ### **<ins>Data Schema:</ins>**
 **Dashboard Data:**
