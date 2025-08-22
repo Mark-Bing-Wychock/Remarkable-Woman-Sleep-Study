@@ -29,7 +29,7 @@ A static snapshot of the raw data used for this project's last major update is a
 1. `Date` - In MM/DD/YYYY format.
 2. `Day of Week (Numeric)` - Numeric day of the week starting at 1 = Sunday.
 3. `Day of the Week` - String day of the week.
-4. `Bed Time (Night of Date)` - Bed time that corresponds with date of recording in HH:MM:SS AM/PM format.
+4. `Bedtime (Night of Date)` - Bedtime that corresponds with the date of recording in HH:MM:SS AM/PM format.
 5. `Rise Time (Morning After Date-Night)` - Wakeup time of the following night in HH:MM:SS AM/PM format.
 6. `Sleep Duration`	- Duration of sleep in HH:MM:SS format.
 7. `Sleep Duration (Seconds)`	- Duration of sleep in numeric seconds.
