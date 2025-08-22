@@ -14,15 +14,15 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
 
 ### <ins>Public Datasource:</ins>
-[**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=csv)
+[**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=xlsx)
 
-The data is organized into two primary tabs/sheets within this public Google Sheet:
+The data is organized into two primary tabs/sheets that can be accessed by using standard spreadsheet software (Google Sheets, Excel, etc.):
 * **`Dashboard Data`**: The main dataset containing all available features used in the dashboard.
 * **`Flattened Dashboard Data`**: A transformed version of the main data, specifically structured to enable certain advanced visualizations in Looker Studio.
 
 A static snapshot of the raw data used for this project's last major update is also available in this repository: 
-* [remarkable_woman_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_dashboard_data.csv)
-* [remarkable_woman_flattened_dashboard_data.csv](https://github.com/Mark-Bing-Wychock/Remarkable-Woman-Sleep-Study/blob/main/remarkable_woman_flattened_dashboard_data.csv)
+* [remarkable_woman_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
+* [remarkable_woman_flattened_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1368067057&single=true&output=csv)
 
 ### **<ins>Data Schema:</ins>**
 **Dashboard Data:**
