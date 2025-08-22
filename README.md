@@ -49,9 +49,9 @@ A static snapshot of the raw data used for this project's last major update is a
 21. `Fall Back Asleep Time`	- Time when sleep resumed in HH:MM:SS AM/PM format.
 22. `Wakeup Duration`	- Duration of the interruption in sleep in HH:MM:SS.
 23. `Wakeup Duration (Sec)`	- Duration of the interruption in sleep in numeric seconds.
-24. `Sleep Duration` - Wakeup Duration (sec)	- Duration of sleep minus the duration of the wakeup in HH:MM:SS.
+24. `Sleep Duration - Wakeup Duration (sec)`	- Duration of sleep minus the duration of the wakeup in HH:MM:SS.
 25. `Steps` - Numeric number of steps walked during the day.
-26. `True Sleep` - Duration of sleep plus the duration of the nap minus the wakeup duration in HH:MM:SS.
+26. `True Sleep` - Duration of sleep plus the nap duration minus the wakeup duration in HH:MM:SS.
 27. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
 
 **Flattened Data:**
