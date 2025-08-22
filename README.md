@@ -8,7 +8,7 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 
 ## 📊 Data:
 
-* The sleep data is collected periodically through Google Forms and from the ZEPP app and stored on Google Sheets. This data is then cleaned, processed, and transformed and linked to a live Looker Studio dashboard.
+* The sleep data is collected periodically from Google Forms and from the ZEPP app and subsequently stored on Google Sheets. This data is then cleaned, processed, and transformed and linked to a live Looker Studio dashboard.
 
 ### <ins>Live Dashboard:</ins>
 [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
