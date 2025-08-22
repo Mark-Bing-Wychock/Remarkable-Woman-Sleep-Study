@@ -12,7 +12,7 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 * To view the dashboard, click the the link below:
   
 ### <ins>Live Dashboard:</ins>
-[**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
+* [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
 
   
 ### <ins>Public Datasource:</ins>
@@ -24,11 +24,11 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 1. **Live Data (Google Sheets):**
   * [**👉 A Remarkable Woman's Sleep Journey - Live Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?gid=1274453153#gid=1274453153)
 
-2. **Static Updated Excel File:**
-  * [**👉 A Remarkable Woman's Sleep Journey - Static  👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=xlsx)
+2. **Up-to-Date Static Excel File:**
+  * [**👉 A Remarkable Woman's Sleep Journey - Static Excel 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=xlsx)
 
-3. **Static Separate .CSV Files:**
-  * [**👉 Remarkable_Woman_Dashboard_Main_Dashboard_Data_Only 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
+3. **Up-to-Date Static Separate .CSV Files:**
+  * [**👉 Remarkable_Woman_Dashboard_Main_Dashboard_Only 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
   * [**👉 Remarkable_Woman_Dashboard_Flattened_Dashboard_Only 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1368067057&single=true&output=csv)
 
 ### **<ins>Data Schema:</ins>**
