@@ -19,7 +19,7 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 * The data is organized into two primary tabs/sheets that can be accessed by using any standard spreadsheet software (Google Sheets, Excel, etc.) and contains:
   * **`Dashboard Data`**: The main dataset containing all available features used in the dashboard.
   * **`Flattened Dashboard Data`**: A transformed version of the main data, specifically structured to enable certain advanced visualizations in Looker Studio.
-* To view the underlying data, click the any of the links below if you want to view the live datasource, an up to date static excel file, or up to date .csv files:
+* To view the underlying data, click the any of the links below:
 
 **Live Data:**
   * [**👉 A Remarkable Woman's Sleep Journey - Public Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?gid=1274453153#gid=1274453153)
@@ -28,10 +28,6 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 **Separate .CSV Files:**
   * [remarkable_woman_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
   * [remarkable_woman_flattened_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1368067057&single=true&output=csv)
-
-* A static snapshot of the raw data used for this project's last major update is also available in this repository: 
-* [remarkable_woman_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1274453153&single=true&output=csv)
-* [remarkable_woman_flattened_dashboard_data.csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?gid=1368067057&single=true&output=csv)
 
 ### **<ins>Data Schema:</ins>**
 **Dashboard Data:**
