@@ -73,6 +73,7 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 ## 🚀 **Future Plans:**
 
 **<ins>In Progress:</ins>**
+* (80% Completion) - A summarized history and report of how newly discovered insights over time helped improve my wife's sleep quality.
 * (50% Completion) - Feature engineer bedtime variables and create new visualizations for the dashboard to compare with rested vs. not rested variables.
 * (40% Completion) - Develop and deploy decision tree-based machine learning models (MLM) with Python to discover additional insights.
 
