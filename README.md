@@ -65,7 +65,7 @@ A static snapshot of the raw data used for this project's last major update is a
 ## 🚀 **Future Plans:**
 
 **<ins>In Progress:</ins>**
-* (50% Completion) - Feature engineer bedtime variables and link to visualizations on dashboard to compare with rested vs. not rested variables.
+* (50% Completion) - Feature engineer bedtime variables and create new visualizations for the dashboard to compare with rested vs. not rested variables.
 * (40% Completion) - Develop and deploy decision tree based machine learning models (MLM) with Python to discover additional insights.
 
 **<ins>Planned:</ins>**
