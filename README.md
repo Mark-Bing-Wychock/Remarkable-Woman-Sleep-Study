@@ -77,6 +77,6 @@ A static snapshot of the raw data used for this project's last major update is a
 ## 📞 **Contact:**
 Have questions or want to connect? Feel free to reach out!
 
-* **LinkedIn:** linkedin.com/in/markbingwychock
+* **LinkedIn:** [linkedin.com/in/markbingwychock](linkedin.com/in/markbingwychock)
 * **Email:** mark.bing.wychock@gmail.com
 
