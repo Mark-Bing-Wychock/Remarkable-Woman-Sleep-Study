@@ -33,7 +33,7 @@ A static snapshot of the raw data used for this project's last major update is a
 5. `Rise Time (Morning After Date-Night)` - Wakeup time of the following night in HH:MM:SS AM/PM format.
 6. `Sleep Duration`	- Duration of sleep in HH:MM:SS format.
 7. `Sleep Duration (Seconds)`	- Duration of sleep in numeric seconds.
-8. `Stimulants`	- Type of stimulant consumed in the morning. (Coffee, Tea, Decaf, None)
+8. `Stimulants`	- Type of stimulant consumed in the morning (Coffee, Tea, Decaf, None).
 9. `Amount of Liquid (mL)` - Amount of stimulants consumed.	
 10. `Rested (corrected)` - Binary (Yes/No) sleep quality metric.  Collected on wakeup of the following day, but recorded on the date of the actual sleep. 
 11. `Before Sleep Mood (Happy, Sad, Anxious, Agitated, Content, Calm)` - Generalized mood before going to sleep.
@@ -57,9 +57,9 @@ A static snapshot of the raw data used for this project's last major update is a
 
 **Flattened Data:**
 1. `Date` - In MM/DD/YYYY format.
-2. `Week_Numeric` - Numeric Day of the Week starting at 1 = Sunday.
-3. `Week_String` - String day of the week
-4. `Sleep_Metric_Type` - Type of sleep metric.  (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wakeups, True Sleep (Sleep Duration + Naps - Wakeups))
+2. `Week_Numeric` - Numeric day of the week starting at 1 = Sunday.
+3. `Week_String` - String day of the week.
+4. `Sleep_Metric_Type` - Type of sleep metric (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wakeups, True Sleep (Sleep Duration + Naps - Wakeups)).
 5. `Value_in_Seconds` - Duration of sleep metric in seconds.
 6. `Rested` - Binary (Yes/No) metric determining sleep quality. 
                           				
