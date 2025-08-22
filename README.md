@@ -48,17 +48,18 @@ A static snapshot of the raw data used for this project's last major update is a
 20. `Wakeup Time`	- Time wakeup (or longest wakeup if multiple instances) occured in HH:MM:SS AM/PM.
 21. `Fall Back Asleep Time`	- Time when sleep resumed in HH:MM:SS AM/PM format.
 22. `Wakeup Duration`	- Duration of the interruption in sleep in HH:MM:SS.
-23. `Wakeup Duration (Sec)`	- Duration of the interruption in sleep in numeric seconds.
-24. `Sleep Duration - Wakeup Duration (sec)`	- Duration of sleep minus the duration of the wakeup in HH:MM:SS.
-25. `Steps` - Numeric number of steps walked during the day.
-26. `True Sleep` - Duration of sleep plus the nap duration minus the wakeup duration in HH:MM:SS.
-27. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
+23. `Wakeup Duration (Sec)`	- Duration of the interruption in sleep converted to numeric seconds.
+24. `Sleep Duration - Wakeup Duration` - Duration of sleep minus the duration of the wakeup in HH:MM:SS.
+25. `Sleep Duration - Wakeup Duration (sec)`	- Duration of sleep minus the duration of the wakeup converted to numeric seconds.
+26. `Steps` - Numeric number of steps walked during the day.
+27. `True Sleep` - Duration of sleep plus the nap duration minus the wakeup duration in HH:MM:SS.
+28. `True Sleep (sec)` - Duration of sleep plus the duration of the nap minus the wakeup duration in numeric seconds.
 
 **Flattened Data:**
 1. `Date` - In MM/DD/YYYY format.
 2. `Week_Numeric` - Numeric Day of the Week starting at 1 = Sunday.
-3. `Week_String` - String day of the week starting on Sunday.
-4. `Sleep_Metric_Type` - Type of sleep metric.  (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wakeups, True Sleep (Naps - Wakeups))
+3. `Week_String` - String day of the week
+4. `Sleep_Metric_Type` - Type of sleep metric.  (Sleep Duration, Sleep Duration + Naps, Sleep Duration - Wakeups, True Sleep (Sleep Duration + Naps - Wakeups))
 5. `Value_in_Seconds` - Duration of sleep metric in seconds.
 6. `Rested` - Binary (Yes/No) metric determining sleep quality. 
                           				
