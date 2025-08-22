@@ -67,11 +67,11 @@ A static snapshot of the raw data used for this project's last major update is a
 
 **<ins>In Progress:</ins>**
 * (50% Completion) - Feature engineer bedtime variables and create new visualizations for the dashboard to compare with rested vs. not rested variables.
-* (40% Completion) - Develop and deploy decision tree based machine learning models (MLM) with Python to discover additional insights.
+* (40% Completion) - Develop and deploy decision tree-based machine learning models (MLM) with Python to discover additional insights.
 
 **<ins>Planned:</ins>**
 * Transform and feature engineer continuous data into categorical and use Apriori Algorithms via Python to discover insights between different variables.
-* Link MLM model results to live dashboard and have it auto update when new data is periodically added.
+* Link MLM results to the live dashboard and have it auto-update when new data is periodically added.
 * Utilize APIs to automatically update static dashboard .csv files.
 
 ## 📞 **Contact:**
