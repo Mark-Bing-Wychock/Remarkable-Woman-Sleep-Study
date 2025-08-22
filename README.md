@@ -4,11 +4,11 @@
 
 This project addresses a profoundly personal challenge: understanding and improving my wife's chronic sleep issues. She often struggles with restless nights, difficulty falling asleep, and persistent fatigue.  After a serious incident in 2024, we realized that we needed to take this issue seriously.
 
-Realizing the potential of deriving insights from personal data, I leveraged my expertise as a Data Analyst to initiate a comprehensive sleep study. This dashboard provides an ongoing, data-driven investigation into sleep patterns and behaviors of a remarkable woman, seeking to uncover the factors influencing her rest and well-being.
+Realizing the potential of deriving insights from personal data, I leveraged my expertise as a Data Analyst to initiate a comprehensive sleep study. This dashboard provides an ongoing, data-driven investigation into the sleep patterns and behaviors of a remarkable woman, seeking to uncover the factors influencing her rest and well-being.
 
 ## 📊 Data:
 
-* The sleep data is collected periodically from Google Forms and from the ZEPP app and subsequently stored on Google Sheets. This data is then cleaned, processed, and transformed and linked to a live Looker Studio dashboard.
+* The sleep data is collected periodically from Google Forms and the ZEPP app and subsequently stored on Google Sheets. This data is then cleaned, processed, transformed, and linked to a live Looker Studio dashboard.
 
 ### <ins>Live Dashboard:</ins>
 [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
@@ -27,8 +27,8 @@ A static snapshot of the raw data used for this project's last major update is a
 ### **<ins>Data Schema:</ins>**
 **Dashboard Data:**
 1. `Date` - In MM/DD/YYYY format.
-2. `Day of Week (Numeric)` - Numeric Day of the Week starting at 1 = Sunday.
-3. `Day of the Week` - String day of the week starting on Sunday.
+2. `Day of Week (Numeric)` - Numeric day of the week starting at 1 = Sunday.
+3. `Day of the Week` - String day of the week.
 4. `Bed Time (Night of Date)` - Bed time that corresponds with date of recording in HH:MM:SS AM/PM format.
 5. `Rise Time (Morning After Date-Night)` - Wakeup time of the following night in HH:MM:SS AM/PM format.
 6. `Sleep Duration`	- Duration of sleep in HH:MM:SS format.
@@ -77,6 +77,6 @@ A static snapshot of the raw data used for this project's last major update is a
 ## 📞 **Contact:**
 Have questions or want to connect? Feel free to reach out!
 
-* **LinkedIn:** [linkedin.com/in/markbingwychock](linkedin.com/in/markbingwychock)
+* **LinkedIn:** [linkedin.com/in/markbingwychock](https://www.linkedin.com/in/markbingwychock/)
 * **Email:** mark.bing.wychock@gmail.com
 
