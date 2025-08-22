@@ -35,17 +35,17 @@ A static snapshot of the raw data used for this project's last major update is a
 7. `Sleep Duration (Seconds)`	- Duration of sleep in numeric seconds.
 8. `Stimulants`	- Type of stimulant consumed in the morning. (Coffee, Tea, Decaf, None)
 9. `Amount of Liquid (mL)` - Amount of stimulants consumed.	
-10. `Rested (corrected)` - Binary (Yes/No) sleep quality metric.  Collected on wakeup of following day, but recorded on the date of the actual sleep. 
+10. `Rested (corrected)` - Binary (Yes/No) sleep quality metric.  Collected on wakeup of the following day, but recorded on the date of the actual sleep. 
 11. `Before Sleep Mood (Happy, Sad, Anxious, Agitated, Content, Calm)` - Generalized mood before going to sleep.
-12. `Microsleep (5p-9p)` - Binary measure of whether a short sleep occured, but not long enough to count as a nap and in the evening hours.
-13. `Nap Occured`	- Binary (Yes/No) measure of whether a nap occured during the day.
+12. `Microsleep (5p-9p)` - Binary measure of whether a short sleep occurred, but not long enough to count as a nap and in the evening hours.
+13. `Nap Occurred`	- Binary (Yes/No) measure of whether a nap occurred during the day.
 14. `Nap Start`	- Start time of nap in HH:MM:SS AM/PM format.
 15. `Nap Wake Up`	- End time of nap in HH:MM:SS AM/PM format.
 16. `Nap Duration`	- Duration of nap in HH:MM:SS.
 17. `Sleep Duration + Nap Duration`	- Duration of sleep plus the duration of the nap in HH:MM:SS.
 18. `Sleep Duration + Nap Duration (Sec)`	- Duration of sleep plus the duration of the nap converted to numeric seconds.
-19. `Did I wake Up?` - Binary (Yes/No) measure of whether	a wakeup occured in the middle of a sleep cycle (between Bed Time and Rise Time).  Only counted once if there's multiple wakeups.
-20. `Wakeup Time`	- Time wakeup (or longest wakeup if multiple instances) occured in HH:MM:SS AM/PM.
+19. `Did I wake Up?` - Binary (Yes/No) measure of whether	a wakeup occurred in the middle of a sleep cycle (between Bed Time and Rise Time).  Only counted once if there's multiple wakeups.
+20. `Wakeup Time`	- Time wakeup (or longest wakeup if multiple instances) occurred in HH:MM:SS AM/PM.
 21. `Fall Back Asleep Time`	- Time when sleep resumed in HH:MM:SS AM/PM format.
 22. `Wakeup Duration`	- Duration of the interruption in sleep in HH:MM:SS.
 23. `Wakeup Duration (Sec)`	- Duration of the interruption in sleep converted to numeric seconds.
