@@ -14,7 +14,7 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 [**👉 A Remarkable Woman's Sleep Journey 👈**](https://lookerstudio.google.com/reporting/5f8bfcfc-974b-4822-8266-00d644420626)
 
 ### <ins>Public Datasource:</ins>
-[**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?usp=sharing)
+[**👉 A Remarkable Woman's Sleep Journey - Datasource 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=csv)
 
 The data is organized into two primary tabs/sheets within this public Google Sheet:
 * **`Dashboard Data`**: The main dataset containing all available features used in the dashboard.
