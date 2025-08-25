@@ -24,7 +24,7 @@ Realizing the potential of deriving insights from personal data, I leveraged my 
 1. **Live Data (Google Sheets):**
   * [**👉 A Remarkable Woman's Sleep Journey - Live Datasource 👈**](https://docs.google.com/spreadsheets/d/1yWikevLd1LhvP6sW2UZa3YY1vUg9E9ngGVitZTN9lzg/edit?gid=1274453153#gid=1274453153)
 
-2. **Up-to-Date Static Excel File:**
+2. **Semi-Live Excel File:**
   * [**👉 A Remarkable Woman's Sleep Journey - Static Excel 👈**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gN98eHvDLC6i1_laAvDrDJ6KsUmXoXPUVnLCZkb_1FTspnAVVESdxZiG6wdFskac5W9ErIy76Kge/pub?output=xlsx)
 
 3. **Up-to-Date Static Separate .CSV Files:**
